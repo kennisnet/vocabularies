@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vdex language="en" profileType="flatTokenTerms"
+      xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd"
+      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns="http://www.imsglobal.org/xsd/imsvdex_v1p0">
+  <vocabIdentifier>ISO-639-1</vocabIdentifier>
+  <vocabName>
+    <langstring language="en">ISO-639-1 language codes</langstring>
+    <langstring language="nl">ISO-639-1 taalcodes</langstring>
+  </vocabName>
+  <term>
+    <termIdentifier>aa</termIdentifier>
+    <caption>
+      <langstring language="en">Afar</langstring>
+      <langstring language="fr">afar</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ab</termIdentifier>
+    <caption>
+      <langstring language="en">Abkhazian</langstring>
+      <langstring language="fr">abkhaze</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>af</termIdentifier>
+    <caption>
+      <langstring language="en">Afrikaans</langstring>
+      <langstring language="fr">afrikaans</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ak</termIdentifier>
+    <caption>
+      <langstring language="en">Akan</langstring>
+      <langstring language="fr">akan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sq</termIdentifier>
+    <caption>
+      <langstring language="en">Albanian</langstring>
+      <langstring language="fr">albanais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>am</termIdentifier>
+    <caption>
+      <langstring language="en">Amharic</langstring>
+      <langstring language="fr">amharique</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ar</termIdentifier>
+    <caption>
+      <langstring language="en">Arabic</langstring>
+      <langstring language="fr">arabe</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>an</termIdentifier>
+    <caption>
+      <langstring language="en">Aragonese</langstring>
+      <langstring language="fr">aragonais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>hy</termIdentifier>
+    <caption>
+      <langstring language="en">Armenian</langstring>
+      <langstring language="fr">arménien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>as</termIdentifier>
+    <caption>
+      <langstring language="en">Assamese</langstring>
+      <langstring language="fr">assamais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>av</termIdentifier>
+    <caption>
+      <langstring language="en">Avaric</langstring>
+      <langstring language="fr">avar</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ae</termIdentifier>
+    <caption>
+      <langstring language="en">Avestan</langstring>
+      <langstring language="fr">avestique</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ay</termIdentifier>
+    <caption>
+      <langstring language="en">Aymara</langstring>
+      <langstring language="fr">aymara</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>az</termIdentifier>
+    <caption>
+      <langstring language="en">Azerbaijani</langstring>
+      <langstring language="fr">azéri</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ba</termIdentifier>
+    <caption>
+      <langstring language="en">Bashkir</langstring>
+      <langstring language="fr">bachkir</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bm</termIdentifier>
+    <caption>
+      <langstring language="en">Bambara</langstring>
+      <langstring language="fr">bambara</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>eu</termIdentifier>
+    <caption>
+      <langstring language="en">Basque</langstring>
+      <langstring language="fr">basque</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>be</termIdentifier>
+    <caption>
+      <langstring language="en">Belarusian</langstring>
+      <langstring language="fr">biélorusse</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bn</termIdentifier>
+    <caption>
+      <langstring language="en">Bengali</langstring>
+      <langstring language="fr">bengali</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bh</termIdentifier>
+    <caption>
+      <langstring language="en">Bihari languages</langstring>
+      <langstring language="fr">langues biharis</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bi</termIdentifier>
+    <caption>
+      <langstring language="en">Bislama</langstring>
+      <langstring language="fr">bichlamar</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bs</termIdentifier>
+    <caption>
+      <langstring language="en">Bosnian</langstring>
+      <langstring language="fr">bosniaque</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>br</termIdentifier>
+    <caption>
+      <langstring language="en">Breton</langstring>
+      <langstring language="fr">breton</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bg</termIdentifier>
+    <caption>
+      <langstring language="en">Bulgarian</langstring>
+      <langstring language="fr">bulgare</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>my</termIdentifier>
+    <caption>
+      <langstring language="en">Burmese</langstring>
+      <langstring language="fr">birman</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ca</termIdentifier>
+    <caption>
+      <langstring language="en">Catalan; Valencian</langstring>
+      <langstring language="fr">catalan; valencien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ch</termIdentifier>
+    <caption>
+      <langstring language="en">Chamorro</langstring>
+      <langstring language="fr">chamorro</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ce</termIdentifier>
+    <caption>
+      <langstring language="en">Chechen</langstring>
+      <langstring language="fr">tchétchène</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>zh</termIdentifier>
+    <caption>
+      <langstring language="en">Chinese</langstring>
+      <langstring language="fr">chinois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>cu</termIdentifier>
+    <caption>
+      <langstring language="en">Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church
+      Slavonic</langstring>
+      <langstring language="fr">slavon d'église; vieux slave; slavon liturgique; vieux bulgare</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>cv</termIdentifier>
+    <caption>
+      <langstring language="en">Chuvash</langstring>
+      <langstring language="fr">tchouvache</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kw</termIdentifier>
+    <caption>
+      <langstring language="en">Cornish</langstring>
+      <langstring language="fr">cornique</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>co</termIdentifier>
+    <caption>
+      <langstring language="en">Corsican</langstring>
+      <langstring language="fr">corse</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>cr</termIdentifier>
+    <caption>
+      <langstring language="en">Cree</langstring>
+      <langstring language="fr">cree</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>cs</termIdentifier>
+    <caption>
+      <langstring language="en">Czech</langstring>
+      <langstring language="fr">tchèque</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>da</termIdentifier>
+    <caption>
+      <langstring language="en">Danish</langstring>
+      <langstring language="fr">danois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>dv</termIdentifier>
+    <caption>
+      <langstring language="en">Divehi; Dhivehi; Maldivian</langstring>
+      <langstring language="fr">maldivien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nl</termIdentifier>
+    <caption>
+      <langstring language="en">Dutch; Flemish</langstring>
+      <langstring language="fr">néerlandais; flamand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>dz</termIdentifier>
+    <caption>
+      <langstring language="en">Dzongkha</langstring>
+      <langstring language="fr">dzongkha</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>en</termIdentifier>
+    <caption>
+      <langstring language="en">English</langstring>
+      <langstring language="fr">anglais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>eo</termIdentifier>
+    <caption>
+      <langstring language="en">Esperanto</langstring>
+      <langstring language="fr">espéranto</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>et</termIdentifier>
+    <caption>
+      <langstring language="en">Estonian</langstring>
+      <langstring language="fr">estonien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ee</termIdentifier>
+    <caption>
+      <langstring language="en">Ewe</langstring>
+      <langstring language="fr">éwé</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fo</termIdentifier>
+    <caption>
+      <langstring language="en">Faroese</langstring>
+      <langstring language="fr">féroïen</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fj</termIdentifier>
+    <caption>
+      <langstring language="en">Fijian</langstring>
+      <langstring language="fr">fidjien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fi</termIdentifier>
+    <caption>
+      <langstring language="en">Finnish</langstring>
+      <langstring language="fr">finnois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fr</termIdentifier>
+    <caption>
+      <langstring language="en">French</langstring>
+      <langstring language="fr">français</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fy</termIdentifier>
+    <caption>
+      <langstring language="en">Western Frisian</langstring>
+      <langstring language="fr">frison occidental</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ff</termIdentifier>
+    <caption>
+      <langstring language="en">Fulah</langstring>
+      <langstring language="fr">peul</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ka</termIdentifier>
+    <caption>
+      <langstring language="en">Georgian</langstring>
+      <langstring language="fr">géorgien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>de</termIdentifier>
+    <caption>
+      <langstring language="en">German</langstring>
+      <langstring language="fr">allemand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>gd</termIdentifier>
+    <caption>
+      <langstring language="en">Gaelic; Scottish Gaelic</langstring>
+      <langstring language="fr">gaélique; gaélique écossais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ga</termIdentifier>
+    <caption>
+      <langstring language="en">Irish</langstring>
+      <langstring language="fr">irlandais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>gl</termIdentifier>
+    <caption>
+      <langstring language="en">Galician</langstring>
+      <langstring language="fr">galicien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>gv</termIdentifier>
+    <caption>
+      <langstring language="en">Manx</langstring>
+      <langstring language="fr">manx; mannois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>el</termIdentifier>
+    <caption>
+      <langstring language="en">Greek, Modern (1453-)</langstring>
+      <langstring language="fr">grec moderne (après 1453)</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>gn</termIdentifier>
+    <caption>
+      <langstring language="en">Guarani</langstring>
+      <langstring language="fr">guarani</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>gu</termIdentifier>
+    <caption>
+      <langstring language="en">Gujarati</langstring>
+      <langstring language="fr">goudjrati</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ht</termIdentifier>
+    <caption>
+      <langstring language="en">Haitian; Haitian Creole</langstring>
+      <langstring language="fr">haïtien; créole haïtien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ha</termIdentifier>
+    <caption>
+      <langstring language="en">Hausa</langstring>
+      <langstring language="fr">haoussa</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>he</termIdentifier>
+    <caption>
+      <langstring language="en">Hebrew</langstring>
+      <langstring language="fr">hébreu</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>hz</termIdentifier>
+    <caption>
+      <langstring language="en">Herero</langstring>
+      <langstring language="fr">herero</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>hi</termIdentifier>
+    <caption>
+      <langstring language="en">Hindi</langstring>
+      <langstring language="fr">hindi</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ho</termIdentifier>
+    <caption>
+      <langstring language="en">Hiri Motu</langstring>
+      <langstring language="fr">hiri motu</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>hr</termIdentifier>
+    <caption>
+      <langstring language="en">Croatian</langstring>
+      <langstring language="fr">croate</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>hu</termIdentifier>
+    <caption>
+      <langstring language="en">Hungarian</langstring>
+      <langstring language="fr">hongrois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ig</termIdentifier>
+    <caption>
+      <langstring language="en">Igbo</langstring>
+      <langstring language="fr">igbo</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>is</termIdentifier>
+    <caption>
+      <langstring language="en">Icelandic</langstring>
+      <langstring language="fr">islandais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>io</termIdentifier>
+    <caption>
+      <langstring language="en">Ido</langstring>
+      <langstring language="fr">ido</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ii</termIdentifier>
+    <caption>
+      <langstring language="en">Sichuan Yi; Nuosu</langstring>
+      <langstring language="fr">yi de Sichuan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>iu</termIdentifier>
+    <caption>
+      <langstring language="en">Inuktitut</langstring>
+      <langstring language="fr">inuktitut</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ie</termIdentifier>
+    <caption>
+      <langstring language="en">Interlingue; Occidental</langstring>
+      <langstring language="fr">interlingue</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ia</termIdentifier>
+    <caption>
+      <langstring language="en">Interlingua (International Auxiliary Language Association)</langstring>
+      <langstring language="fr">interlingua (langue auxiliaire internationale)</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>id</termIdentifier>
+    <caption>
+      <langstring language="en">Indonesian</langstring>
+      <langstring language="fr">indonésien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ik</termIdentifier>
+    <caption>
+      <langstring language="en">Inupiaq</langstring>
+      <langstring language="fr">inupiaq</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>it</termIdentifier>
+    <caption>
+      <langstring language="en">Italian</langstring>
+      <langstring language="fr">italien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>jv</termIdentifier>
+    <caption>
+      <langstring language="en">Javanese</langstring>
+      <langstring language="fr">javanais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ja</termIdentifier>
+    <caption>
+      <langstring language="en">Japanese</langstring>
+      <langstring language="fr">japonais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kl</termIdentifier>
+    <caption>
+      <langstring language="en">Kalaallisut; Greenlandic</langstring>
+      <langstring language="fr">groenlandais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kn</termIdentifier>
+    <caption>
+      <langstring language="en">Kannada</langstring>
+      <langstring language="fr">kannada</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ks</termIdentifier>
+    <caption>
+      <langstring language="en">Kashmiri</langstring>
+      <langstring language="fr">kashmiri</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kr</termIdentifier>
+    <caption>
+      <langstring language="en">Kanuri</langstring>
+      <langstring language="fr">kanouri</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kk</termIdentifier>
+    <caption>
+      <langstring language="en">Kazakh</langstring>
+      <langstring language="fr">kazakh</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>km</termIdentifier>
+    <caption>
+      <langstring language="en">Central Khmer</langstring>
+      <langstring language="fr">khmer central</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ki</termIdentifier>
+    <caption>
+      <langstring language="en">Kikuyu; Gikuyu</langstring>
+      <langstring language="fr">kikuyu</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>rw</termIdentifier>
+    <caption>
+      <langstring language="en">Kinyarwanda</langstring>
+      <langstring language="fr">rwanda</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ky</termIdentifier>
+    <caption>
+      <langstring language="en">Kirghiz; Kyrgyz</langstring>
+      <langstring language="fr">kirghiz</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kv</termIdentifier>
+    <caption>
+      <langstring language="en">Komi</langstring>
+      <langstring language="fr">kom</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kg</termIdentifier>
+    <caption>
+      <langstring language="en">Kongo</langstring>
+      <langstring language="fr">kongo</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ko</termIdentifier>
+    <caption>
+      <langstring language="en">Korean</langstring>
+      <langstring language="fr">coréen</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>kj</termIdentifier>
+    <caption>
+      <langstring language="en">Kuanyama; Kwanyama</langstring>
+      <langstring language="fr">kuanyama; kwanyama</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ku</termIdentifier>
+    <caption>
+      <langstring language="en">Kurdish</langstring>
+      <langstring language="fr">kurde</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lo</termIdentifier>
+    <caption>
+      <langstring language="en">Lao</langstring>
+      <langstring language="fr">lao</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>la</termIdentifier>
+    <caption>
+      <langstring language="en">Latin</langstring>
+      <langstring language="fr">latin</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lv</termIdentifier>
+    <caption>
+      <langstring language="en">Latvian</langstring>
+      <langstring language="fr">letton</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>li</termIdentifier>
+    <caption>
+      <langstring language="en">Limburgan; Limburger; Limburgish</langstring>
+      <langstring language="fr">limbourgeois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ln</termIdentifier>
+    <caption>
+      <langstring language="en">Lingala</langstring>
+      <langstring language="fr">lingala</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lt</termIdentifier>
+    <caption>
+      <langstring language="en">Lithuanian</langstring>
+      <langstring language="fr">lituanien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lb</termIdentifier>
+    <caption>
+      <langstring language="en">Luxembourgish; Letzeburgesch</langstring>
+      <langstring language="fr">luxembourgeois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lu</termIdentifier>
+    <caption>
+      <langstring language="en">Luba-Katanga</langstring>
+      <langstring language="fr">luba-katanga</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>lg</termIdentifier>
+    <caption>
+      <langstring language="en">Ganda</langstring>
+      <langstring language="fr">ganda</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mk</termIdentifier>
+    <caption>
+      <langstring language="en">Macedonian</langstring>
+      <langstring language="fr">macédonien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mh</termIdentifier>
+    <caption>
+      <langstring language="en">Marshallese</langstring>
+      <langstring language="fr">marshall</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ml</termIdentifier>
+    <caption>
+      <langstring language="en">Malayalam</langstring>
+      <langstring language="fr">malayalam</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mi</termIdentifier>
+    <caption>
+      <langstring language="en">Maori</langstring>
+      <langstring language="fr">maori</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mr</termIdentifier>
+    <caption>
+      <langstring language="en">Marathi</langstring>
+      <langstring language="fr">marathe</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ms</termIdentifier>
+    <caption>
+      <langstring language="en">Malay</langstring>
+      <langstring language="fr">malais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mg</termIdentifier>
+    <caption>
+      <langstring language="en">Malagasy</langstring>
+      <langstring language="fr">malgache</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mt</termIdentifier>
+    <caption>
+      <langstring language="en">Maltese</langstring>
+      <langstring language="fr">maltais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>mn</termIdentifier>
+    <caption>
+      <langstring language="en">Mongolian</langstring>
+      <langstring language="fr">mongol</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>na</termIdentifier>
+    <caption>
+      <langstring language="en">Nauru</langstring>
+      <langstring language="fr">nauruan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nv</termIdentifier>
+    <caption>
+      <langstring language="en">Navajo; Navaho</langstring>
+      <langstring language="fr">navaho</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nr</termIdentifier>
+    <caption>
+      <langstring language="en">Ndebele, South; South Ndebele</langstring>
+      <langstring language="fr">ndébélé du Sud</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nd</termIdentifier>
+    <caption>
+      <langstring language="en">Ndebele, North; North Ndebele</langstring>
+      <langstring language="fr">ndébélé du Nord</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ng</termIdentifier>
+    <caption>
+      <langstring language="en">Ndonga</langstring>
+      <langstring language="fr">ndonga</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ne</termIdentifier>
+    <caption>
+      <langstring language="en">Nepali</langstring>
+      <langstring language="fr">népalais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nn</termIdentifier>
+    <caption>
+      <langstring language="en">Norwegian Nynorsk; Nynorsk, Norwegian</langstring>
+      <langstring language="fr">norvégien nynorsk; nynorsk, norvégien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>nb</termIdentifier>
+    <caption>
+      <langstring language="en">Bokmål, Norwegian; Norwegian Bokmål</langstring>
+      <langstring language="fr">norvégien bokmål</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>no</termIdentifier>
+    <caption>
+      <langstring language="en">Norwegian</langstring>
+      <langstring language="fr">norvégien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ny</termIdentifier>
+    <caption>
+      <langstring language="en">Chichewa; Chewa; Nyanja</langstring>
+      <langstring language="fr">chichewa; chewa; nyanja</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>oc</termIdentifier>
+    <caption>
+      <langstring language="en">Occitan (post 1500); Provençal</langstring>
+      <langstring language="fr">occitan (après 1500); provençal</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>oj</termIdentifier>
+    <caption>
+      <langstring language="en">Ojibwa</langstring>
+      <langstring language="fr">ojibwa</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>or</termIdentifier>
+    <caption>
+      <langstring language="en">Oriya</langstring>
+      <langstring language="fr">oriya</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>om</termIdentifier>
+    <caption>
+      <langstring language="en">Oromo</langstring>
+      <langstring language="fr">galla</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>os</termIdentifier>
+    <caption>
+      <langstring language="en">Ossetian; Ossetic</langstring>
+      <langstring language="fr">ossète</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>pa</termIdentifier>
+    <caption>
+      <langstring language="en">Panjabi; Punjabi</langstring>
+      <langstring language="fr">pendjabi</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>fa</termIdentifier>
+    <caption>
+      <langstring language="en">Persian</langstring>
+      <langstring language="fr">persan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>pi</termIdentifier>
+    <caption>
+      <langstring language="en">Pali</langstring>
+      <langstring language="fr">pali</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>pl</termIdentifier>
+    <caption>
+      <langstring language="en">Polish</langstring>
+      <langstring language="fr">polonais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>pt</termIdentifier>
+    <caption>
+      <langstring language="en">Portuguese</langstring>
+      <langstring language="fr">portugais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ps</termIdentifier>
+    <caption>
+      <langstring language="en">Pushto; Pashto</langstring>
+      <langstring language="fr">pachto</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>qu</termIdentifier>
+    <caption>
+      <langstring language="en">Quechua</langstring>
+      <langstring language="fr">quechua</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>rm</termIdentifier>
+    <caption>
+      <langstring language="en">Romansh</langstring>
+      <langstring language="fr">romanche</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ro</termIdentifier>
+    <caption>
+      <langstring language="en">Romanian; Moldavian; Moldovan</langstring>
+      <langstring language="fr">roumain; moldave</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>rn</termIdentifier>
+    <caption>
+      <langstring language="en">Rundi</langstring>
+      <langstring language="fr">rundi</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ru</termIdentifier>
+    <caption>
+      <langstring language="en">Russian</langstring>
+      <langstring language="fr">russe</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sg</termIdentifier>
+    <caption>
+      <langstring language="en">Sango</langstring>
+      <langstring language="fr">sango</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sa</termIdentifier>
+    <caption>
+      <langstring language="en">Sanskrit</langstring>
+      <langstring language="fr">sanskrit</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>si</termIdentifier>
+    <caption>
+      <langstring language="en">Sinhala; Sinhalese</langstring>
+      <langstring language="fr">singhalais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sk</termIdentifier>
+    <caption>
+      <langstring language="en">Slovak</langstring>
+      <langstring language="fr">slovaque</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sl</termIdentifier>
+    <caption>
+      <langstring language="en">Slovenian</langstring>
+      <langstring language="fr">slovène</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>se</termIdentifier>
+    <caption>
+      <langstring language="en">Northern Sami</langstring>
+      <langstring language="fr">sami du Nord</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sm</termIdentifier>
+    <caption>
+      <langstring language="en">Samoan</langstring>
+      <langstring language="fr">samoan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sn</termIdentifier>
+    <caption>
+      <langstring language="en">Shona</langstring>
+      <langstring language="fr">shona</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sd</termIdentifier>
+    <caption>
+      <langstring language="en">Sindhi</langstring>
+      <langstring language="fr">sindhi</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>so</termIdentifier>
+    <caption>
+      <langstring language="en">Somali</langstring>
+      <langstring language="fr">somali</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>st</termIdentifier>
+    <caption>
+      <langstring language="en">Sotho, Southern</langstring>
+      <langstring language="fr">sotho du Sud</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>es</termIdentifier>
+    <caption>
+      <langstring language="en">Spanish; Castilian</langstring>
+      <langstring language="fr">espagnol; castillan</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sc</termIdentifier>
+    <caption>
+      <langstring language="en">Sardinian</langstring>
+      <langstring language="fr">sarde</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sr</termIdentifier>
+    <caption>
+      <langstring language="en">Serbian</langstring>
+      <langstring language="fr">serbe</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ss</termIdentifier>
+    <caption>
+      <langstring language="en">Swati</langstring>
+      <langstring language="fr">swati</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>su</termIdentifier>
+    <caption>
+      <langstring language="en">Sundanese</langstring>
+      <langstring language="fr">soundanais</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sw</termIdentifier>
+    <caption>
+      <langstring language="en">Swahili</langstring>
+      <langstring language="fr">swahili</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>sv</termIdentifier>
+    <caption>
+      <langstring language="en">Swedish</langstring>
+      <langstring language="fr">suédois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ty</termIdentifier>
+    <caption>
+      <langstring language="en">Tahitian</langstring>
+      <langstring language="fr">tahitien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ta</termIdentifier>
+    <caption>
+      <langstring language="en">Tamil</langstring>
+      <langstring language="fr">tamoul</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tt</termIdentifier>
+    <caption>
+      <langstring language="en">Tatar</langstring>
+      <langstring language="fr">tatar</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>te</termIdentifier>
+    <caption>
+      <langstring language="en">Telugu</langstring>
+      <langstring language="fr">télougou</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tg</termIdentifier>
+    <caption>
+      <langstring language="en">Tajik</langstring>
+      <langstring language="fr">tadjik</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tl</termIdentifier>
+    <caption>
+      <langstring language="en">Tagalog</langstring>
+      <langstring language="fr">tagalog</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>th</termIdentifier>
+    <caption>
+      <langstring language="en">Thai</langstring>
+      <langstring language="fr">thaï</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>bo</termIdentifier>
+    <caption>
+      <langstring language="en">Tibetan</langstring>
+      <langstring language="fr">tibétain</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ti</termIdentifier>
+    <caption>
+      <langstring language="en">Tigrinya</langstring>
+      <langstring language="fr">tigrigna</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>to</termIdentifier>
+    <caption>
+      <langstring language="en">Tonga (Tonga Islands)</langstring>
+      <langstring language="fr">tongan (Îles Tonga)</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tn</termIdentifier>
+    <caption>
+      <langstring language="en">Tswana</langstring>
+      <langstring language="fr">tswana</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ts</termIdentifier>
+    <caption>
+      <langstring language="en">Tsonga</langstring>
+      <langstring language="fr">tsonga</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tk</termIdentifier>
+    <caption>
+      <langstring language="en">Turkmen</langstring>
+      <langstring language="fr">turkmène</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tr</termIdentifier>
+    <caption>
+      <langstring language="en">Turkish</langstring>
+      <langstring language="fr">turc</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>tw</termIdentifier>
+    <caption>
+      <langstring language="en">Twi</langstring>
+      <langstring language="fr">twi</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ug</termIdentifier>
+    <caption>
+      <langstring language="en">Uighur; Uyghur</langstring>
+      <langstring language="fr">ouïgour</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>uk</termIdentifier>
+    <caption>
+      <langstring language="en">Ukrainian</langstring>
+      <langstring language="fr">ukrainien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ur</termIdentifier>
+    <caption>
+      <langstring language="en">Urdu</langstring>
+      <langstring language="fr">ourdou</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>uz</termIdentifier>
+    <caption>
+      <langstring language="en">Uzbek</langstring>
+      <langstring language="fr">ouszbek</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>ve</termIdentifier>
+    <caption>
+      <langstring language="en">Venda</langstring>
+      <langstring language="fr">venda</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>vi</termIdentifier>
+    <caption>
+      <langstring language="en">Vietnamese</langstring>
+      <langstring language="fr">vietnamien</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>vo</termIdentifier>
+    <caption>
+      <langstring language="en">Volapük</langstring>
+      <langstring language="fr">volapük</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>cy</termIdentifier>
+    <caption>
+      <langstring language="en">Welsh</langstring>
+      <langstring language="fr">gallois</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>wa</termIdentifier>
+    <caption>
+      <langstring language="en">Walloon</langstring>
+      <langstring language="fr">wallon</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>wo</termIdentifier>
+    <caption>
+      <langstring language="en">Wolof</langstring>
+      <langstring language="fr">wolof</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>xh</termIdentifier>
+    <caption>
+      <langstring language="en">Xhosa</langstring>
+      <langstring language="fr">xhosa</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>yi</termIdentifier>
+    <caption>
+      <langstring language="en">Yiddish</langstring>
+      <langstring language="fr">yiddish</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>yo</termIdentifier>
+    <caption>
+      <langstring language="en">Yoruba</langstring>
+      <langstring language="fr">yoruba</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>za</termIdentifier>
+    <caption>
+      <langstring language="en">Zhuang; Chuang</langstring>
+      <langstring language="fr">zhuang; chuang</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>zu</termIdentifier>
+    <caption>
+      <langstring language="en">Zulu</langstring>
+      <langstring language="fr">zoulou</langstring>
+    </caption>
+  </term>
+</vdex>
