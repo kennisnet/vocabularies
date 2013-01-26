@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vdex language="en" profileType="flatTokenTerms"
+      xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd"
+      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns="http://www.imsglobal.org/xsd/imsvdex_v1p0">
+  <vocabIdentifier>IANA-MIME-media-types</vocabIdentifier>
+  <vocabName>
+    <langstring language="en">IANA MIME media types</langstring>
+    <langstring language="nl">IANA MIME media types</langstring>
+  </vocabName>
+  <term>
+    <termIdentifier>application%2Fmsword</termIdentifier>
+    <caption>
+      <langstring language="en">Microsoft Word document</langstring>
+      <langstring language="nl">Microsoft Word document</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Foctet-stream</termIdentifier>
+    <caption>
+      <langstring language="en">binary data</langstring>
+      <langstring language="nl">binaire gegevens</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fpdf</termIdentifier>
+    <caption>
+      <langstring language="en">PDF document</langstring>
+      <langstring language="nl">PDF document</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fvnd.ms-excel</termIdentifier>
+    <caption>
+      <langstring language="en">Microsoft Excel file</langstring>
+      <langstring language="nl">Microsoft Excel bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fvnd.ms-powerpoint</termIdentifier>
+    <caption>
+      <langstring language="en">Microsoft Powerpoint file</langstring>
+      <langstring language="nl">Microsoft Powerpoint bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fvnd.openxmlformats-officedocument.presentationml.presentation</termIdentifier>
+    <caption>
+      <langstring language="en">Office Open Presentation file</langstring>
+      <langstring language="nl">Office Open Presentatie bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fvnd.openxmlformats-officedocument.presentationml.slideshow</termIdentifier>
+    <caption>
+      <langstring language="en">Office Open Slideshow file</langstring>
+      <langstring language="nl">Office Open Diavoorstelling bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document</termIdentifier>
+    <caption>
+      <langstring language="en">Office Open Word Processing file</langstring>
+      <langstring language="fr">Office Open Tekstverwerking bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-ACTIVprimary3</termIdentifier>
+    <caption>
+      <langstring language="en">Promethean ActivPrimary file</langstring>
+      <langstring language="nl">Promethean ActivPrimary bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-mplayer2</termIdentifier>
+    <caption>
+      <langstring language="en">Web video</langstring>
+      <langstring language="nl">Web video</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-Inspire</termIdentifier>
+    <caption>
+      <langstring language="en">Promethean ActivInspire file</langstring>
+      <langstring language="nl">Promethean ActivInspire bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-smarttech-notebook</termIdentifier>
+    <caption>
+      <langstring language="en">SMART Notebook file</langstring>
+      <langstring language="nl">SMART Notebook bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-Wikiwijs-Arrangement</termIdentifier>
+    <caption>
+      <langstring language="en">Wikiwijs Arrangement</langstring>
+      <langstring language="nl">Wikiwijs Arrangement</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fx-zip-compressed</termIdentifier>
+    <caption>
+      <langstring language="en">Heutink HD Board file</langstring>
+      <langstring language="nl">Heutink HD Board bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>application%2Fzip</termIdentifier>
+    <caption>
+      <langstring language="en">ZIP archive</langstring>
+      <langstring language="nl">ZIP archief</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>audio%2Fmpeg</termIdentifier>
+    <caption>
+      <langstring language="en">MP3 audio</langstring>
+      <langstring language="nl">MP3 audio</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>audio%2Fx-wav</termIdentifier>
+    <caption>
+      <langstring language="en">WAVE audio</langstring>
+      <langstring language="nl">WAVE audio</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>image%2Fgif</termIdentifier>
+    <caption>
+      <langstring language="en">GIF image</langstring>
+      <langstring language="nl">GIF afbeelding</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>image%2Fjpeg</termIdentifier>
+    <caption>
+      <langstring language="en">JPEG image</langstring>
+      <langstring language="nl">JPEG afbeelding</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>text%2Fhtml</termIdentifier>
+    <caption>
+      <langstring language="en">HTML page</langstring>
+      <langstring language="nl">HTML pagina</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>text%2Fplain</termIdentifier>
+    <caption>
+      <langstring language="en">text file</langstring>
+      <langstring language="nl">tekst bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>text%2Fxml</termIdentifier>
+    <caption>
+      <langstring language="en">XML file</langstring>
+      <langstring language="nl">XML bestand</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>video%2Fmp4</termIdentifier>
+    <caption>
+      <langstring language="en">MP4 video</langstring>
+      <langstring language="nl">MP4 video</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>video%2Fx-ms-asf</termIdentifier>
+    <caption>
+      <langstring language="en">ASF video</langstring>
+      <langstring language="nl">ASF video</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>video%2Fx-flv</termIdentifier>
+    <caption>
+      <langstring language="en">Flash video</langstring>
+      <langstring language="nl">Flash video</langstring>
+    </caption>
+  </term>
+  <term>
+    <termIdentifier>video%2Fx-ms-wmv</termIdentifier>
+    <caption>
+      <langstring language="en">Windows Media Video</langstring>
+      <langstring language="nl">Windows Media Video</langstring>
+    </caption>
+  </term>
+</vdex>
