@@ -133,6 +133,7 @@
     <caption>
       <langstring language="en">Belarusian</langstring>
       <langstring language="fr">biélorusse</langstring>
+      <langstring language="nl">Wit-Russisch</langstring>
     </caption>
   </term>
   <term>
@@ -175,6 +176,7 @@
     <caption>
       <langstring language="en">Bulgarian</langstring>
       <langstring language="fr">bulgare</langstring>
+      <langstring language="nl">Bulgaars</langstring>
     </caption>
   </term>
   <term>
@@ -262,7 +264,7 @@
     <caption>
       <langstring language="en">Danish</langstring>
       <langstring language="fr">danois</langstring>
-      <langstring language="fr">Deens</langstring>
+      <langstring language="nl">Deens</langstring>
     </caption>
   </term>
   <term>
@@ -387,6 +389,7 @@
     <caption>
       <langstring language="en">Irish</langstring>
       <langstring language="fr">irlandais</langstring>
+      <langstring language="nl">Iers</langstring>
     </caption>
   </term>
   <term>
@@ -444,6 +447,7 @@
     <caption>
       <langstring language="en">Hebrew</langstring>
       <langstring language="fr">hébreu</langstring>
+      <langstring language="nl">Hebreeuws</langstring>
     </caption>
   </term>
   <term>
@@ -479,6 +483,7 @@
     <caption>
       <langstring language="en">Hungarian</langstring>
       <langstring language="fr">hongrois</langstring>
+      <langstring language="nl">Hongaars</langstring>
     </caption>
   </term>
   <term>
@@ -564,6 +569,7 @@
     <caption>
       <langstring language="en">Japanese</langstring>
       <langstring language="fr">japonais</langstring>
+      <langstring language="nl">Japans</langstring>
     </caption>
   </term>
   <term>
@@ -648,6 +654,7 @@
     <caption>
       <langstring language="en">Korean</langstring>
       <langstring language="fr">coréen</langstring>
+      <langstring language="nl">Koreaans</langstring>
     </caption>
   </term>
   <term>
@@ -691,6 +698,7 @@
     <caption>
       <langstring language="en">Limburgan; Limburger; Limburgish</langstring>
       <langstring language="fr">limbourgeois</langstring>
+      <langstring language="nl">Limburgs</langstring>
     </caption>
   </term>
   <term>
@@ -741,6 +749,7 @@
     <caption>
       <langstring language="en">Marshallese</langstring>
       <langstring language="fr">marshall</langstring>
+      <langstring language="nl">Marshallees</langstring>
     </caption>
   </term>
   <term>
@@ -1013,6 +1022,7 @@
     <caption>
       <langstring language="en">Slovenian</langstring>
       <langstring language="fr">slovène</langstring>
+      <langstring language="nl">Sloveens</langstring>
     </caption>
   </term>
   <term>
@@ -1077,6 +1087,7 @@
     <caption>
       <langstring language="en">Serbian</langstring>
       <langstring language="fr">serbe</langstring>
+      <langstring language="nl">Servisch</langstring>
     </caption>
   </term>
   <term>
@@ -1155,6 +1166,7 @@
     <caption>
       <langstring language="en">Thai</langstring>
       <langstring language="fr">thaï</langstring>
+      <langstring language="nl">Thai</langstring>
     </caption>
   </term>
   <term>
@@ -1226,6 +1238,7 @@
     <caption>
       <langstring language="en">Ukrainian</langstring>
       <langstring language="fr">ukrainien</langstring>
+      <langstring language="nl">Oekraïens</langstring>
     </caption>
   </term>
   <term>
@@ -1254,6 +1267,7 @@
     <caption>
       <langstring language="en">Vietnamese</langstring>
       <langstring language="fr">vietnamien</langstring>
+      <langstring language="nl">Vietnamees</langstring>
     </caption>
   </term>
   <term>
@@ -1275,6 +1289,7 @@
     <caption>
       <langstring language="en">Walloon</langstring>
       <langstring language="fr">wallon</langstring>
+      <langstring language="nl">Waals</langstring>
     </caption>
   </term>
   <term>
@@ -1317,6 +1332,15 @@
     <caption>
       <langstring language="en">Zulu</langstring>
       <langstring language="fr">zoulou</langstring>
+    </caption>
+  </term>
+  <!--Although x-none is not part of the ISO 639-1, it is usefull.-->
+  <term>
+    <termIdentifier>x-none</termIdentifier>
+    <caption>
+      <langstring language="en">none</langstring>
+      <langstring language="fr">aucune</langstring>
+      <langstring language="nl">geen</langstring>
     </caption>
   </term>
 </vdex>
