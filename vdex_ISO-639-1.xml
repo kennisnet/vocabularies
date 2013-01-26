@@ -55,6 +55,7 @@
     <caption>
       <langstring language="en">Arabic</langstring>
       <langstring language="fr">arabe</langstring>
+      <langstring language="nl">Arabisch</langstring>
     </caption>
   </term>
   <term>
@@ -209,6 +210,7 @@
     <caption>
       <langstring language="en">Chinese</langstring>
       <langstring language="fr">chinois</langstring>
+      <langstring language="nl">Chinees</langstring>
     </caption>
   </term>
   <term>
@@ -252,6 +254,7 @@
     <caption>
       <langstring language="en">Czech</langstring>
       <langstring language="fr">tchèque</langstring>
+      <langstring language="nl">Tsjechisch</langstring>
     </caption>
   </term>
   <term>
@@ -259,6 +262,7 @@
     <caption>
       <langstring language="en">Danish</langstring>
       <langstring language="fr">danois</langstring>
+      <langstring language="fr">Deens</langstring>
     </caption>
   </term>
   <term>
@@ -273,6 +277,7 @@
     <caption>
       <langstring language="en">Dutch; Flemish</langstring>
       <langstring language="fr">néerlandais; flamand</langstring>
+      <langstring language="nl">Nederlands; Vlaams</langstring>
     </caption>
   </term>
   <term>
@@ -287,6 +292,7 @@
     <caption>
       <langstring language="en">English</langstring>
       <langstring language="fr">anglais</langstring>
+      <langstring language="nl">Engels</langstring>
     </caption>
   </term>
   <term>
@@ -329,6 +335,7 @@
     <caption>
       <langstring language="en">Finnish</langstring>
       <langstring language="fr">finnois</langstring>
+      <langstring language="nl">Fins</langstring>
     </caption>
   </term>
   <term>
@@ -336,6 +343,7 @@
     <caption>
       <langstring language="en">French</langstring>
       <langstring language="fr">français</langstring>
+      <langstring language="nl">Frans</langstring>
     </caption>
   </term>
   <term>
@@ -364,6 +372,7 @@
     <caption>
       <langstring language="en">German</langstring>
       <langstring language="fr">allemand</langstring>
+      <langstring language="nl">Duits</langstring>
     </caption>
   </term>
   <term>
@@ -399,6 +408,7 @@
     <caption>
       <langstring language="en">Greek, Modern (1453-)</langstring>
       <langstring language="fr">grec moderne (après 1453)</langstring>
+      <langstring language="nl">Grieks, Modern (na 1453)</langstring>
     </caption>
   </term>
   <term>
@@ -539,6 +549,7 @@
     <caption>
       <langstring language="en">Italian</langstring>
       <langstring language="fr">italien</langstring>
+      <langstring language="nl">Italiaans</langstring>
     </caption>
   </term>
   <term>
@@ -665,6 +676,7 @@
     <caption>
       <langstring language="en">Latin</langstring>
       <langstring language="fr">latin</langstring>
+      <langstring language="nl">Latijn</langstring>
     </caption>
   </term>
   <term>
@@ -693,6 +705,7 @@
     <caption>
       <langstring language="en">Lithuanian</langstring>
       <langstring language="fr">lituanien</langstring>
+      <langstring language="nl">Litouws</langstring>
     </caption>
   </term>
   <term>
@@ -840,6 +853,7 @@
     <caption>
       <langstring language="en">Norwegian</langstring>
       <langstring language="fr">norvégien</langstring>
+      <langstring language="nl">Noors</langstring>
     </caption>
   </term>
   <term>
@@ -896,6 +910,7 @@
     <caption>
       <langstring language="en">Persian</langstring>
       <langstring language="fr">persan</langstring>
+      <langstring language="nl">Perzisch</langstring>
     </caption>
   </term>
   <term>
@@ -910,6 +925,7 @@
     <caption>
       <langstring language="en">Polish</langstring>
       <langstring language="fr">polonais</langstring>
+      <langstring language="nl">Pools</langstring>
     </caption>
   </term>
   <term>
@@ -917,6 +933,7 @@
     <caption>
       <langstring language="en">Portuguese</langstring>
       <langstring language="fr">portugais</langstring>
+      <langstring language="nl">Portugees</langstring>
     </caption>
   </term>
   <term>
@@ -959,6 +976,7 @@
     <caption>
       <langstring language="en">Russian</langstring>
       <langstring language="fr">russe</langstring>
+      <langstring language="nl">Russisch</langstring>
     </caption>
   </term>
   <term>
@@ -987,6 +1005,7 @@
     <caption>
       <langstring language="en">Slovak</langstring>
       <langstring language="fr">slovaque</langstring>
+      <langstring language="nl">Slowaaks</langstring>
     </caption>
   </term>
   <term>
@@ -1043,6 +1062,7 @@
     <caption>
       <langstring language="en">Spanish; Castilian</langstring>
       <langstring language="fr">espagnol; castillan</langstring>
+      <langstring language="nl">Spaans; Castiliaans</langstring>
     </caption>
   </term>
   <term>
@@ -1085,6 +1105,7 @@
     <caption>
       <langstring language="en">Swedish</langstring>
       <langstring language="fr">suédois</langstring>
+      <langstring language="nl">Zweeds</langstring>
     </caption>
   </term>
   <term>
@@ -1183,6 +1204,7 @@
     <caption>
       <langstring language="en">Turkish</langstring>
       <langstring language="fr">turc</langstring>
+      <langstring language="nl">Turks</langstring>
     </caption>
   </term>
   <term>
