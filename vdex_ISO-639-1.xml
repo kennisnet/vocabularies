@@ -1,1346 +1,2987 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vdex language="en" profileType="flatTokenTerms"
-      xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd"
-      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns="http://www.imsglobal.org/xsd/imsvdex_v1p0">
-  <vocabIdentifier>ISO-639-1</vocabIdentifier>
+<vdex profileType="flatTokenTerms" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd"
+      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0" xmlns:xthes="http://www.xthes.org/elements/1.0/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:ns="http://www.imsglobal.org/xsd/imsvdex_v1p0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <vocabName>
     <langstring language="en">ISO-639-1 language codes</langstring>
     <langstring language="nl">ISO-639-1 taalcodes</langstring>
   </vocabName>
-  <term>
-    <termIdentifier>aa</termIdentifier>
-    <caption>
-      <langstring language="en">Afar</langstring>
-      <langstring language="fr">afar</langstring>
-    </caption>
-  </term>
-  <term>
+  <vocabIdentifier>ISO-639-1</vocabIdentifier>
+  <term validIndex="true">
     <termIdentifier>ab</termIdentifier>
     <caption>
+      <langstring language="da">Abkasisk</langstring>
+      <langstring language="nl">Abchasisch</langstring>
       <langstring language="en">Abkhazian</langstring>
-      <langstring language="fr">abkhaze</langstring>
+      <langstring language="fr">Abkhazien</langstring>
+      <langstring language="de">Abchasisch</langstring>
+      <langstring language="it">Abkaziano</langstring>
+      <langstring language="pl">Abchaski</langstring>
+      <langstring language="es">Abjazo</langstring>
+      <langstring language="sv">Abchasiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN"
+      xsi:schemaLocation="http://www.xthes.org/elements/1.0/ http://www.xthes.org/schemas/xthes/elements/schema.xsd">1025</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
+    <termIdentifier>aa</termIdentifier>
+    <caption>
+      <langstring language="da">Afar</langstring>
+      <langstring language="nl">Afar</langstring>
+      <langstring language="en">Afar</langstring>
+      <langstring language="fr">Afar</langstring>
+      <langstring language="de">Afar</langstring>
+      <langstring language="it">Afar</langstring>
+      <langstring language="pl">Chamicki</langstring>
+      <langstring language="es">Afar</langstring>
+      <langstring language="sv">Afariska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1026</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
     <termIdentifier>af</termIdentifier>
     <caption>
+      <langstring language="da">Afrikaans</langstring>
+      <langstring language="nl">Afrikaans</langstring>
       <langstring language="en">Afrikaans</langstring>
-      <langstring language="fr">afrikaans</langstring>
+      <langstring language="fr">Afrikaans</langstring>
+      <langstring language="de">Afrikaans</langstring>
+      <langstring language="el">Αφρικανικά</langstring>
+      <langstring language="it">Afrikaans</langstring>
+      <langstring language="pl">Afrikaans</langstring>
+      <langstring language="es">Afrikaner</langstring>
+      <langstring language="sv">Afrikaans</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1027</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>ak</termIdentifier>
-    <caption>
-      <langstring language="en">Akan</langstring>
-      <langstring language="fr">akan</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>sq</termIdentifier>
     <caption>
+      <langstring language="da">Albansk</langstring>
+      <langstring language="nl">Albanees</langstring>
       <langstring language="en">Albanian</langstring>
-      <langstring language="fr">albanais</langstring>
+      <langstring language="fr">Albanais</langstring>
+      <langstring language="de">Albanisch</langstring>
+      <langstring language="el">Αλβανικά</langstring>
+      <langstring language="it">Albanese</langstring>
+      <langstring language="pl">Albański</langstring>
+      <langstring language="es">Albano</langstring>
+      <langstring language="sv">Albanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1028</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>am</termIdentifier>
     <caption>
+      <langstring language="da">Amharisk</langstring>
+      <langstring language="nl">Amhaars</langstring>
       <langstring language="en">Amharic</langstring>
-      <langstring language="fr">amharique</langstring>
+      <langstring language="fr">Amharique</langstring>
+      <langstring language="de">Amharisch</langstring>
+      <langstring language="it">Amarico</langstring>
+      <langstring language="pl">Amharski</langstring>
+      <langstring language="es">Amharic</langstring>
+      <langstring language="sv">Amhariska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1029</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>ar</termIdentifier>
     <caption>
-      <langstring language="en">Arabic</langstring>
-      <langstring language="fr">arabe</langstring>
+      <langstring language="da">Arabisk</langstring>
       <langstring language="nl">Arabisch</langstring>
+      <langstring language="en">Arabic</langstring>
+      <langstring language="fr">Arabe</langstring>
+      <langstring language="de">Arabisch</langstring>
+      <langstring language="el">Αραβικά</langstring>
+      <langstring language="it">Arabo</langstring>
+      <langstring language="pl">Arabski</langstring>
+      <langstring language="es">Arabe</langstring>
+      <langstring language="sv">Arabiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1030</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>an</termIdentifier>
-    <caption>
-      <langstring language="en">Aragonese</langstring>
-      <langstring language="fr">aragonais</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>hy</termIdentifier>
     <caption>
+      <langstring language="bg">арменски</langstring>
+      <langstring language="hr">Armenski</langstring>
+      <langstring language="cs">arménština</langstring>
+      <langstring language="da">Armensk</langstring>
+      <langstring language="nl">Armeens</langstring>
       <langstring language="en">Armenian</langstring>
-      <langstring language="fr">arménien</langstring>
+      <langstring language="et">Armeenia</langstring>
+      <langstring language="fi">armenia</langstring>
+      <langstring language="fr">Arménien</langstring>
+      <langstring language="de">Armenisch</langstring>
+      <langstring language="el">Αρμενικά</langstring>
+      <langstring language="hu">Örmény</langstring>
+      <langstring language="is">Armeníska</langstring>
+      <langstring language="ga">Airméinis</langstring>
+      <langstring language="it">Armeno</langstring>
+      <langstring language="lv">armēņu</langstring>
+      <langstring language="lt">Armėnų</langstring>
+      <langstring language="mt">Armen</langstring>
+      <langstring language="no">armensk</langstring>
+      <langstring language="pl">Armeński</langstring>
+      <langstring language="pt">Arménio</langstring>
+      <langstring language="ro">Armeană</langstring>
+      <langstring language="sk">arménčina</langstring>
+      <langstring language="sl">Armensko</langstring>
+      <langstring language="es">Armenio</langstring>
+      <langstring language="sv">Armeniska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">25</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>as</termIdentifier>
     <caption>
+      <langstring language="da">Assamesisk</langstring>
+      <langstring language="nl">Assamees</langstring>
       <langstring language="en">Assamese</langstring>
-      <langstring language="fr">assamais</langstring>
+      <langstring language="fr">Assamais</langstring>
+      <langstring language="de">Assamesisch</langstring>
+      <langstring language="it">Assamese</langstring>
+      <langstring language="pl">Assamski</langstring>
+      <langstring language="es">Assamese</langstring>
+      <langstring language="sv">Assamesiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1032</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>av</termIdentifier>
-    <caption>
-      <langstring language="en">Avaric</langstring>
-      <langstring language="fr">avar</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ae</termIdentifier>
-    <caption>
-      <langstring language="en">Avestan</langstring>
-      <langstring language="fr">avestique</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>ay</termIdentifier>
     <caption>
+      <langstring language="da">Aymarisk</langstring>
+      <langstring language="nl">Aymarisch</langstring>
       <langstring language="en">Aymara</langstring>
-      <langstring language="fr">aymara</langstring>
+      <langstring language="fr">Aymara</langstring>
+      <langstring language="de">Aymarisch</langstring>
+      <langstring language="it">Aymara</langstring>
+      <langstring language="pl">Ajmara</langstring>
+      <langstring language="es">Aymara</langstring>
+      <langstring language="sv">Aymariska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1033</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>az</termIdentifier>
     <caption>
+      <langstring language="da">Azerbaidjansk</langstring>
+      <langstring language="nl">Azerbeidjaans</langstring>
       <langstring language="en">Azerbaijani</langstring>
-      <langstring language="fr">azéri</langstring>
+      <langstring language="fr">Azerbaidjanais</langstring>
+      <langstring language="de">Aserbaidschanisch</langstring>
+      <langstring language="it">Azerbaijano</langstring>
+      <langstring language="pl">Azerski</langstring>
+      <langstring language="es">Azerbaiyani</langstring>
+      <langstring language="sv">Azerbajdjanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1034</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>ba</termIdentifier>
     <caption>
+      <langstring language="da">Bashkirisk</langstring>
+      <langstring language="nl">Basjkirsch</langstring>
       <langstring language="en">Bashkir</langstring>
-      <langstring language="fr">bachkir</langstring>
+      <langstring language="fr">Bashkir</langstring>
+      <langstring language="de">Baschkirisch</langstring>
+      <langstring language="it">Bashkir</langstring>
+      <langstring language="pl">Baszkirski</langstring>
+      <langstring language="es">Bashkir</langstring>
+      <langstring language="sv">Bashkiriska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1035</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>bm</termIdentifier>
-    <caption>
-      <langstring language="en">Bambara</langstring>
-      <langstring language="fr">bambara</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>eu</termIdentifier>
     <caption>
+      <langstring language="da">Baskisk</langstring>
+      <langstring language="nl">Baskisch</langstring>
       <langstring language="en">Basque</langstring>
-      <langstring language="fr">basque</langstring>
+      <langstring language="fr">Basque</langstring>
+      <langstring language="de">Baskisch</langstring>
+      <langstring language="it">Basco</langstring>
+      <langstring language="pl">Baskijski</langstring>
+      <langstring language="es">Euskera</langstring>
+      <langstring language="sv">Baskiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1036</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>be</termIdentifier>
-    <caption>
-      <langstring language="en">Belarusian</langstring>
-      <langstring language="fr">biélorusse</langstring>
-      <langstring language="nl">Wit-Russisch</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>bn</termIdentifier>
     <caption>
-      <langstring language="en">Bengali</langstring>
-      <langstring language="fr">bengali</langstring>
+      <langstring language="da">Bengalsk</langstring>
+      <langstring language="nl">Bengaals</langstring>
+      <langstring language="en">Bengali, Bangla</langstring>
+      <langstring language="fr">Bengali, Bangla</langstring>
+      <langstring language="de">Bengali, Bangla</langstring>
+      <langstring language="it">Bengalese</langstring>
+      <langstring language="pl">Bengalski</langstring>
+      <langstring language="es">Bengali, Bangla</langstring>
+      <langstring language="sv">Bengali</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1037</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>bh</termIdentifier>
-    <caption>
-      <langstring language="en">Bihari languages</langstring>
-      <langstring language="fr">langues biharis</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>bi</termIdentifier>
-    <caption>
-      <langstring language="en">Bislama</langstring>
-      <langstring language="fr">bichlamar</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>bs</termIdentifier>
-    <caption>
-      <langstring language="en">Bosnian</langstring>
-      <langstring language="fr">bosniaque</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>br</termIdentifier>
-    <caption>
-      <langstring language="en">Breton</langstring>
-      <langstring language="fr">breton</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>bg</termIdentifier>
-    <caption>
-      <langstring language="en">Bulgarian</langstring>
-      <langstring language="fr">bulgare</langstring>
-      <langstring language="nl">Bulgaars</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>my</termIdentifier>
-    <caption>
-      <langstring language="en">Burmese</langstring>
-      <langstring language="fr">birman</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ca</termIdentifier>
-    <caption>
-      <langstring language="en">Catalan; Valencian</langstring>
-      <langstring language="fr">catalan; valencien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ch</termIdentifier>
-    <caption>
-      <langstring language="en">Chamorro</langstring>
-      <langstring language="fr">chamorro</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ce</termIdentifier>
-    <caption>
-      <langstring language="en">Chechen</langstring>
-      <langstring language="fr">tchétchène</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>zh</termIdentifier>
-    <caption>
-      <langstring language="en">Chinese</langstring>
-      <langstring language="fr">chinois</langstring>
-      <langstring language="nl">Chinees</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>cu</termIdentifier>
-    <caption>
-      <langstring language="en">Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church
-      Slavonic</langstring>
-      <langstring language="fr">slavon d'église; vieux slave; slavon liturgique; vieux bulgare</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>cv</termIdentifier>
-    <caption>
-      <langstring language="en">Chuvash</langstring>
-      <langstring language="fr">tchouvache</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kw</termIdentifier>
-    <caption>
-      <langstring language="en">Cornish</langstring>
-      <langstring language="fr">cornique</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>co</termIdentifier>
-    <caption>
-      <langstring language="en">Corsican</langstring>
-      <langstring language="fr">corse</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>cr</termIdentifier>
-    <caption>
-      <langstring language="en">Cree</langstring>
-      <langstring language="fr">cree</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>cs</termIdentifier>
-    <caption>
-      <langstring language="en">Czech</langstring>
-      <langstring language="fr">tchèque</langstring>
-      <langstring language="nl">Tsjechisch</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>da</termIdentifier>
-    <caption>
-      <langstring language="en">Danish</langstring>
-      <langstring language="fr">danois</langstring>
-      <langstring language="nl">Deens</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>dv</termIdentifier>
-    <caption>
-      <langstring language="en">Divehi; Dhivehi; Maldivian</langstring>
-      <langstring language="fr">maldivien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nl</termIdentifier>
-    <caption>
-      <langstring language="en">Dutch; Flemish</langstring>
-      <langstring language="fr">néerlandais; flamand</langstring>
-      <langstring language="nl">Nederlands; Vlaams</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>dz</termIdentifier>
     <caption>
-      <langstring language="en">Dzongkha</langstring>
-      <langstring language="fr">dzongkha</langstring>
+      <langstring language="da">Bhutansk</langstring>
+      <langstring language="nl">Boetaans</langstring>
+      <langstring language="en">Bhutani</langstring>
+      <langstring language="fr">Bhoutani</langstring>
+      <langstring language="de">Bhutani</langstring>
+      <langstring language="it">Bhutanese</langstring>
+      <langstring language="pl">Butański</langstring>
+      <langstring language="es">Butani</langstring>
+      <langstring language="sv">Bhutanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1038</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>en</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>bh</termIdentifier>
     <caption>
-      <langstring language="en">English</langstring>
-      <langstring language="fr">anglais</langstring>
-      <langstring language="nl">Engels</langstring>
+      <langstring language="da">Bihari</langstring>
+      <langstring language="nl">Bihari</langstring>
+      <langstring language="en">Bihari</langstring>
+      <langstring language="fr">Bihari</langstring>
+      <langstring language="de">Bihari</langstring>
+      <langstring language="it">Bihari</langstring>
+      <langstring language="pl">Biharski</langstring>
+      <langstring language="es">Bihari</langstring>
+      <langstring language="sv">Bihari</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1039</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>eo</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>bi</termIdentifier>
     <caption>
-      <langstring language="en">Esperanto</langstring>
-      <langstring language="fr">espéranto</langstring>
+      <langstring language="da">Bislama</langstring>
+      <langstring language="nl">Bislama</langstring>
+      <langstring language="en">Bislama</langstring>
+      <langstring language="fr">Bislama</langstring>
+      <langstring language="de">Bislama</langstring>
+      <langstring language="it">Bislama</langstring>
+      <langstring language="pl">Bislama</langstring>
+      <langstring language="es">Bislama</langstring>
+      <langstring language="sv">Bislamiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1040</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>et</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>br</termIdentifier>
     <caption>
-      <langstring language="en">Estonian</langstring>
-      <langstring language="fr">estonien</langstring>
+      <langstring language="da">Bretonsk</langstring>
+      <langstring language="nl">Bretons</langstring>
+      <langstring language="en">Breton</langstring>
+      <langstring language="fr">Breton</langstring>
+      <langstring language="de">Bretonisch</langstring>
+      <langstring language="it">Bretone</langstring>
+      <langstring language="pl">Bretoński</langstring>
+      <langstring language="es">Breton</langstring>
+      <langstring language="sv">Bretonska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1041</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>ee</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>bg</termIdentifier>
     <caption>
-      <langstring language="en">Ewe</langstring>
-      <langstring language="fr">éwé</langstring>
+      <langstring language="bg">български</langstring>
+      <langstring language="hr">Bugarski</langstring>
+      <langstring language="cs">bulharština</langstring>
+      <langstring language="da">Bulgarsk</langstring>
+      <langstring language="nl">Bulgaars</langstring>
+      <langstring language="en">Bulgarian</langstring>
+      <langstring language="et">Bulgaaria</langstring>
+      <langstring language="fi">bulgaria</langstring>
+      <langstring language="fr">Bulgare</langstring>
+      <langstring language="de">Bulgarisch</langstring>
+      <langstring language="el">Βουλγαρικά</langstring>
+      <langstring language="hu">Bolgár</langstring>
+      <langstring language="is">Búlgarska</langstring>
+      <langstring language="ga">Bulgáiris</langstring>
+      <langstring language="it">Bulgaro</langstring>
+      <langstring language="lv">bulgāru</langstring>
+      <langstring language="lt">Bulgarų</langstring>
+      <langstring language="mt">Bulgaru</langstring>
+      <langstring language="no">bulgarsk</langstring>
+      <langstring language="pl">Bułgarski</langstring>
+      <langstring language="pt">Búlgaro</langstring>
+      <langstring language="ro">Bulgară</langstring>
+      <langstring language="sk">bulharčina</langstring>
+      <langstring language="sl">Bolgarsko</langstring>
+      <langstring language="es">Búlgaro</langstring>
+      <langstring language="sv">Bulgariska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">8</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>fo</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>my</termIdentifier>
     <caption>
-      <langstring language="en">Faroese</langstring>
-      <langstring language="fr">féroïen</langstring>
+      <langstring language="da">Burmesisk</langstring>
+      <langstring language="nl">Birmaans</langstring>
+      <langstring language="en">Burmese</langstring>
+      <langstring language="fr">Birman</langstring>
+      <langstring language="de">Burmesisch</langstring>
+      <langstring language="it">Burmese</langstring>
+      <langstring language="pl">Burmenski</langstring>
+      <langstring language="es">Birmano</langstring>
+      <langstring language="sv">Burmanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1043</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>fj</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>be</termIdentifier>
     <caption>
-      <langstring language="en">Fijian</langstring>
-      <langstring language="fr">fidjien</langstring>
+      <langstring language="da">Hviderussisk</langstring>
+      <langstring language="nl">Wit-Russisch</langstring>
+      <langstring language="en">Byelorussian</langstring>
+      <langstring language="fr">Biélorusse</langstring>
+      <langstring language="de">Weissrussisch</langstring>
+      <langstring language="it">Bielorusso</langstring>
+      <langstring language="pl">Białoruski</langstring>
+      <langstring language="es">Bielorruso</langstring>
+      <langstring language="sv">Vitryska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1044</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>fi</termIdentifier>
-    <caption>
-      <langstring language="en">Finnish</langstring>
-      <langstring language="fr">finnois</langstring>
-      <langstring language="nl">Fins</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>fr</termIdentifier>
-    <caption>
-      <langstring language="en">French</langstring>
-      <langstring language="fr">français</langstring>
-      <langstring language="nl">Frans</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>fy</termIdentifier>
-    <caption>
-      <langstring language="en">Western Frisian</langstring>
-      <langstring language="fr">frison occidental</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ff</termIdentifier>
-    <caption>
-      <langstring language="en">Fulah</langstring>
-      <langstring language="fr">peul</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ka</termIdentifier>
-    <caption>
-      <langstring language="en">Georgian</langstring>
-      <langstring language="fr">géorgien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>de</termIdentifier>
-    <caption>
-      <langstring language="en">German</langstring>
-      <langstring language="fr">allemand</langstring>
-      <langstring language="nl">Duits</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>gd</termIdentifier>
-    <caption>
-      <langstring language="en">Gaelic; Scottish Gaelic</langstring>
-      <langstring language="fr">gaélique; gaélique écossais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ga</termIdentifier>
-    <caption>
-      <langstring language="en">Irish</langstring>
-      <langstring language="fr">irlandais</langstring>
-      <langstring language="nl">Iers</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>gl</termIdentifier>
-    <caption>
-      <langstring language="en">Galician</langstring>
-      <langstring language="fr">galicien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>gv</termIdentifier>
-    <caption>
-      <langstring language="en">Manx</langstring>
-      <langstring language="fr">manx; mannois</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>el</termIdentifier>
-    <caption>
-      <langstring language="en">Greek, Modern (1453-)</langstring>
-      <langstring language="fr">grec moderne (après 1453)</langstring>
-      <langstring language="nl">Grieks, Modern (na 1453)</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>gn</termIdentifier>
-    <caption>
-      <langstring language="en">Guarani</langstring>
-      <langstring language="fr">guarani</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>gu</termIdentifier>
-    <caption>
-      <langstring language="en">Gujarati</langstring>
-      <langstring language="fr">goudjrati</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ht</termIdentifier>
-    <caption>
-      <langstring language="en">Haitian; Haitian Creole</langstring>
-      <langstring language="fr">haïtien; créole haïtien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ha</termIdentifier>
-    <caption>
-      <langstring language="en">Hausa</langstring>
-      <langstring language="fr">haoussa</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>he</termIdentifier>
-    <caption>
-      <langstring language="en">Hebrew</langstring>
-      <langstring language="fr">hébreu</langstring>
-      <langstring language="nl">Hebreeuws</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>hz</termIdentifier>
-    <caption>
-      <langstring language="en">Herero</langstring>
-      <langstring language="fr">herero</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>hi</termIdentifier>
-    <caption>
-      <langstring language="en">Hindi</langstring>
-      <langstring language="fr">hindi</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ho</termIdentifier>
-    <caption>
-      <langstring language="en">Hiri Motu</langstring>
-      <langstring language="fr">hiri motu</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>hr</termIdentifier>
-    <caption>
-      <langstring language="en">Croatian</langstring>
-      <langstring language="fr">croate</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>hu</termIdentifier>
-    <caption>
-      <langstring language="en">Hungarian</langstring>
-      <langstring language="fr">hongrois</langstring>
-      <langstring language="nl">Hongaars</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ig</termIdentifier>
-    <caption>
-      <langstring language="en">Igbo</langstring>
-      <langstring language="fr">igbo</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>is</termIdentifier>
-    <caption>
-      <langstring language="en">Icelandic</langstring>
-      <langstring language="fr">islandais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>io</termIdentifier>
-    <caption>
-      <langstring language="en">Ido</langstring>
-      <langstring language="fr">ido</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ii</termIdentifier>
-    <caption>
-      <langstring language="en">Sichuan Yi; Nuosu</langstring>
-      <langstring language="fr">yi de Sichuan</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>iu</termIdentifier>
-    <caption>
-      <langstring language="en">Inuktitut</langstring>
-      <langstring language="fr">inuktitut</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ie</termIdentifier>
-    <caption>
-      <langstring language="en">Interlingue; Occidental</langstring>
-      <langstring language="fr">interlingue</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ia</termIdentifier>
-    <caption>
-      <langstring language="en">Interlingua (International Auxiliary Language Association)</langstring>
-      <langstring language="fr">interlingua (langue auxiliaire internationale)</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>id</termIdentifier>
-    <caption>
-      <langstring language="en">Indonesian</langstring>
-      <langstring language="fr">indonésien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ik</termIdentifier>
-    <caption>
-      <langstring language="en">Inupiaq</langstring>
-      <langstring language="fr">inupiaq</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>it</termIdentifier>
-    <caption>
-      <langstring language="en">Italian</langstring>
-      <langstring language="fr">italien</langstring>
-      <langstring language="nl">Italiaans</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>jv</termIdentifier>
-    <caption>
-      <langstring language="en">Javanese</langstring>
-      <langstring language="fr">javanais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ja</termIdentifier>
-    <caption>
-      <langstring language="en">Japanese</langstring>
-      <langstring language="fr">japonais</langstring>
-      <langstring language="nl">Japans</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kl</termIdentifier>
-    <caption>
-      <langstring language="en">Kalaallisut; Greenlandic</langstring>
-      <langstring language="fr">groenlandais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kn</termIdentifier>
-    <caption>
-      <langstring language="en">Kannada</langstring>
-      <langstring language="fr">kannada</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ks</termIdentifier>
-    <caption>
-      <langstring language="en">Kashmiri</langstring>
-      <langstring language="fr">kashmiri</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kr</termIdentifier>
-    <caption>
-      <langstring language="en">Kanuri</langstring>
-      <langstring language="fr">kanouri</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kk</termIdentifier>
-    <caption>
-      <langstring language="en">Kazakh</langstring>
-      <langstring language="fr">kazakh</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>km</termIdentifier>
     <caption>
-      <langstring language="en">Central Khmer</langstring>
-      <langstring language="fr">khmer central</langstring>
+      <langstring language="da">Cambodiansk</langstring>
+      <langstring language="nl">Cambodjaans</langstring>
+      <langstring language="en">Cambodian</langstring>
+      <langstring language="fr">Cambodgien</langstring>
+      <langstring language="de">Kambodschanisch</langstring>
+      <langstring language="it">Cambogiano</langstring>
+      <langstring language="pl">Kambodżański</langstring>
+      <langstring language="es">Camboyano</langstring>
+      <langstring language="sv">Kambodjanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1045</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>ki</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>ca</termIdentifier>
     <caption>
-      <langstring language="en">Kikuyu; Gikuyu</langstring>
-      <langstring language="fr">kikuyu</langstring>
+      <langstring language="bg">каталонски</langstring>
+      <langstring language="hr">Katalonski</langstring>
+      <langstring language="cs">katalánština</langstring>
+      <langstring language="da">Katalansk</langstring>
+      <langstring language="nl">Catalaans</langstring>
+      <langstring language="en">Catalan</langstring>
+      <langstring language="et">Kataloonia</langstring>
+      <langstring language="fi">katalaani</langstring>
+      <langstring language="fr">Catalan</langstring>
+      <langstring language="de">Katalanisch</langstring>
+      <langstring language="el">Καταλανικά</langstring>
+      <langstring language="hu">Katalán</langstring>
+      <langstring language="is">Katalónska</langstring>
+      <langstring language="ga">Catalóinis</langstring>
+      <langstring language="it">Catalano</langstring>
+      <langstring language="lv">kataloņu</langstring>
+      <langstring language="lt">Katalonų</langstring>
+      <langstring language="mt">Katalan</langstring>
+      <langstring language="no">katalansk</langstring>
+      <langstring language="pl">Kataloński</langstring>
+      <langstring language="pt">Catalão</langstring>
+      <langstring language="ro">Catalană</langstring>
+      <langstring language="sk">katalánčina</langstring>
+      <langstring language="sl">Katalonsko</langstring>
+      <langstring language="es">Catalán</langstring>
+      <langstring language="sv">Katalanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">30</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
+    <termIdentifier>zh</termIdentifier>
+    <caption>
+      <langstring language="da">Kinesisk</langstring>
+      <langstring language="nl">Chinees</langstring>
+      <langstring language="en">Chinese</langstring>
+      <langstring language="fr">Chinois</langstring>
+      <langstring language="de">Chinesisch</langstring>
+      <langstring language="el">Κινέζικα</langstring>
+      <langstring language="it">Cinese</langstring>
+      <langstring language="pl">Chiński</langstring>
+      <langstring language="es">Chino</langstring>
+      <langstring language="sv">Kinesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1048</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>co</termIdentifier>
+    <caption>
+      <langstring language="da">Korsikansk</langstring>
+      <langstring language="nl">Corsicaans</langstring>
+      <langstring language="en">Corsican</langstring>
+      <langstring language="fr">Corse</langstring>
+      <langstring language="de">Korsisch</langstring>
+      <langstring language="it">Corso</langstring>
+      <langstring language="pl">Korsykański</langstring>
+      <langstring language="es">Corso</langstring>
+      <langstring language="sv">Korsikanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1049</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>hr</termIdentifier>
+    <caption>
+      <langstring language="bg">хърватски</langstring>
+      <langstring language="hr">Hrvatski</langstring>
+      <langstring language="cs">chorvatština</langstring>
+      <langstring language="da">Kroatisk</langstring>
+      <langstring language="nl">Kroatisch</langstring>
+      <langstring language="en">Croatian</langstring>
+      <langstring language="et">Horvaadi</langstring>
+      <langstring language="fi">kroatia</langstring>
+      <langstring language="fr">Croate</langstring>
+      <langstring language="de">Kroatisch</langstring>
+      <langstring language="el">Κροατικά</langstring>
+      <langstring language="hu">Horvát</langstring>
+      <langstring language="is">Króatíska</langstring>
+      <langstring language="ga">Cróitis</langstring>
+      <langstring language="it">Croato</langstring>
+      <langstring language="lv">horvātu</langstring>
+      <langstring language="lt">Kroatų</langstring>
+      <langstring language="mt">Kroat</langstring>
+      <langstring language="no">kroatisk</langstring>
+      <langstring language="pl">Chorwacki</langstring>
+      <langstring language="pt">Croata</langstring>
+      <langstring language="ro">Croată</langstring>
+      <langstring language="sk">chorvátština</langstring>
+      <langstring language="sl">Hrvaško</langstring>
+      <langstring language="es">Croata</langstring>
+      <langstring language="sv">Kroatiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">27</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>cs</termIdentifier>
+    <caption>
+      <langstring language="bg">чешки</langstring>
+      <langstring language="hr">Češki</langstring>
+      <langstring language="cs">čeština</langstring>
+      <langstring language="da">Tjekkisk</langstring>
+      <langstring language="nl">Tsjechisch</langstring>
+      <langstring language="en">Czech</langstring>
+      <langstring language="et">Tšehhi</langstring>
+      <langstring language="fi">tsekki</langstring>
+      <langstring language="fr">Tchèque</langstring>
+      <langstring language="de">Tschechisch</langstring>
+      <langstring language="el">Τσέχικα</langstring>
+      <langstring language="hu">Cseh</langstring>
+      <langstring language="is">Tékkneska</langstring>
+      <langstring language="ga">Na Seice</langstring>
+      <langstring language="it">Ceco</langstring>
+      <langstring language="lv">čehu</langstring>
+      <langstring language="lt">Čekų</langstring>
+      <langstring language="mt">Ċek</langstring>
+      <langstring language="no">tsjekkisk</langstring>
+      <langstring language="pl">Czeski</langstring>
+      <langstring language="pt">Checo</langstring>
+      <langstring language="ro">Cehă</langstring>
+      <langstring language="sk">čeština</langstring>
+      <langstring language="sl">Češko</langstring>
+      <langstring language="es">Checo</langstring>
+      <langstring language="sv">Tjeckiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">15</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>da</termIdentifier>
+    <caption>
+      <langstring language="bg">датски</langstring>
+      <langstring language="hr">Danski</langstring>
+      <langstring language="cs">dánština</langstring>
+      <langstring language="da">Dansk</langstring>
+      <langstring language="nl">Deens</langstring>
+      <langstring language="en">Danish</langstring>
+      <langstring language="et">Taani</langstring>
+      <langstring language="fi">tanska</langstring>
+      <langstring language="fr">Danois</langstring>
+      <langstring language="de">Dänisch</langstring>
+      <langstring language="el">Δανικά</langstring>
+      <langstring language="hu">Dán</langstring>
+      <langstring language="is">Danska</langstring>
+      <langstring language="ga">Danmhairgis</langstring>
+      <langstring language="it">Danese</langstring>
+      <langstring language="lv">dāņu</langstring>
+      <langstring language="lt">Danų</langstring>
+      <langstring language="mt">Daniż</langstring>
+      <langstring language="no">dansk</langstring>
+      <langstring language="pl">Duński</langstring>
+      <langstring language="pt">Dinamarquês</langstring>
+      <langstring language="ro">Daneză</langstring>
+      <langstring language="sk">dánština</langstring>
+      <langstring language="sl">Dansko</langstring>
+      <langstring language="es">Danés</langstring>
+      <langstring language="sv">Danska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">3</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>nl</termIdentifier>
+    <caption>
+      <langstring language="bg">холандски</langstring>
+      <langstring language="hr">Holandski</langstring>
+      <langstring language="cs">holandština</langstring>
+      <langstring language="da">Hollandsk</langstring>
+      <langstring language="nl">Nederlands</langstring>
+      <langstring language="en">Dutch</langstring>
+      <langstring language="et">Hollandi</langstring>
+      <langstring language="fi">hollanti</langstring>
+      <langstring language="fr">Néerlandais</langstring>
+      <langstring language="de">Niederländisch</langstring>
+      <langstring language="el">Ολλανδικά</langstring>
+      <langstring language="hu">Holland</langstring>
+      <langstring language="is">Hollenska</langstring>
+      <langstring language="ga">Ollainnis</langstring>
+      <langstring language="it">Olandese</langstring>
+      <langstring language="lv">holandiešu</langstring>
+      <langstring language="lt">Olandų</langstring>
+      <langstring language="mt">Olaniż</langstring>
+      <langstring language="no">nederlandsk</langstring>
+      <langstring language="pl">Holenderski</langstring>
+      <langstring language="pt">Holandês</langstring>
+      <langstring language="ro">Olandeză</langstring>
+      <langstring language="sk">holandština</langstring>
+      <langstring language="sl">Nizozemsko</langstring>
+      <langstring language="es">Holandés</langstring>
+      <langstring language="sv">Holländska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">4</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>en</termIdentifier>
+    <caption>
+      <langstring language="bg">английски</langstring>
+      <langstring language="hr">Engleski</langstring>
+      <langstring language="cs">angličtina</langstring>
+      <langstring language="da">Engelsk</langstring>
+      <langstring language="nl">Engels</langstring>
+      <langstring language="en">English</langstring>
+      <langstring language="et">Inglise</langstring>
+      <langstring language="fi">englanti</langstring>
+      <langstring language="fr">Anglais</langstring>
+      <langstring language="de">Englisch</langstring>
+      <langstring language="el">Αγγλικά</langstring>
+      <langstring language="hu">Angol</langstring>
+      <langstring language="is">Enska</langstring>
+      <langstring language="ga">Béarla</langstring>
+      <langstring language="it">Inglese</langstring>
+      <langstring language="lv">angļu</langstring>
+      <langstring language="lt">Anglų</langstring>
+      <langstring language="mt">Ingliż</langstring>
+      <langstring language="no">engelsk</langstring>
+      <langstring language="pl">Angielski</langstring>
+      <langstring language="pt">Inglês</langstring>
+      <langstring language="ro">Engleză</langstring>
+      <langstring language="sk">angličtina</langstring>
+      <langstring language="sl">Angleško</langstring>
+      <langstring language="es">Inglés</langstring>
+      <langstring language="sv">Engelska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">5</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>eo</termIdentifier>
+    <caption>
+      <langstring language="da">Esperanto</langstring>
+      <langstring language="nl">Esperanto</langstring>
+      <langstring language="en">Esperanto</langstring>
+      <langstring language="fr">Espéranto</langstring>
+      <langstring language="de">Esperanto</langstring>
+      <langstring language="it">Esperanto</langstring>
+      <langstring language="pl">Esperanto</langstring>
+      <langstring language="es">Esperanto</langstring>
+      <langstring language="sv">Esperanto</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1054</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>et</termIdentifier>
+    <caption>
+      <langstring language="bg">естонски</langstring>
+      <langstring language="hr">Estonski</langstring>
+      <langstring language="cs">estonština</langstring>
+      <langstring language="da">Estisk</langstring>
+      <langstring language="nl">Estlands</langstring>
+      <langstring language="en">Estonian</langstring>
+      <langstring language="et">Eesti</langstring>
+      <langstring language="fi">viro</langstring>
+      <langstring language="fr">Estonien</langstring>
+      <langstring language="de">Estisch</langstring>
+      <langstring language="el">Εσθονικά</langstring>
+      <langstring language="hu">Észt</langstring>
+      <langstring language="is">Eistneska</langstring>
+      <langstring language="ga">Eastóinis</langstring>
+      <langstring language="it">Estone</langstring>
+      <langstring language="lv">igauņu</langstring>
+      <langstring language="lt">Estų</langstring>
+      <langstring language="mt">Estonjan</langstring>
+      <langstring language="no">estisk</langstring>
+      <langstring language="pl">Estoński</langstring>
+      <langstring language="pt">Estónio</langstring>
+      <langstring language="ro">Estoniană</langstring>
+      <langstring language="sk">estónčina</langstring>
+      <langstring language="sl">Estonsko</langstring>
+      <langstring language="es">Estonio</langstring>
+      <langstring language="sv">Estniska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">17</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fo</termIdentifier>
+    <caption>
+      <langstring language="da">Færøsk</langstring>
+      <langstring language="nl">Faroes</langstring>
+      <langstring language="en">Faroese</langstring>
+      <langstring language="fr">Féringien</langstring>
+      <langstring language="de">Faröisch</langstring>
+      <langstring language="it">Faroese</langstring>
+      <langstring language="pl">Farerski</langstring>
+      <langstring language="es">Faroese</langstring>
+      <langstring language="sv">Färöiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1056</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fj</termIdentifier>
+    <caption>
+      <langstring language="da">Fijiansk</langstring>
+      <langstring language="nl">Fiji</langstring>
+      <langstring language="en">Fiji</langstring>
+      <langstring language="fr">Fidjien</langstring>
+      <langstring language="de">Fidschi</langstring>
+      <langstring language="it">Fijiano</langstring>
+      <langstring language="pl">Fidżi</langstring>
+      <langstring language="es">Fiji</langstring>
+      <langstring language="sv">Fiji</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1058</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fi</termIdentifier>
+    <caption>
+      <langstring language="bg">финландски</langstring>
+      <langstring language="hr">Finski</langstring>
+      <langstring language="cs">finština</langstring>
+      <langstring language="da">Finsk</langstring>
+      <langstring language="nl">Fins</langstring>
+      <langstring language="en">Finnish</langstring>
+      <langstring language="et">Soome</langstring>
+      <langstring language="fi">suomi</langstring>
+      <langstring language="fr">Finnois</langstring>
+      <langstring language="de">Finnisch</langstring>
+      <langstring language="el">Φινλανδικά</langstring>
+      <langstring language="hu">Finn</langstring>
+      <langstring language="is">Finnska</langstring>
+      <langstring language="ga">Fionlainnis</langstring>
+      <langstring language="it">Finlandese</langstring>
+      <langstring language="lv">somu</langstring>
+      <langstring language="lt">Suomių</langstring>
+      <langstring language="mt">Finlandiż</langstring>
+      <langstring language="no">finsk</langstring>
+      <langstring language="pl">Fiński</langstring>
+      <langstring language="pt">Finlandês</langstring>
+      <langstring language="ro">Finlandeză</langstring>
+      <langstring language="sk">fínština</langstring>
+      <langstring language="sl">Finsko</langstring>
+      <langstring language="es">Finlandés</langstring>
+      <langstring language="sv">Finska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">6</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fr</termIdentifier>
+    <caption>
+      <langstring language="bg">френски</langstring>
+      <langstring language="hr">Francuski</langstring>
+      <langstring language="cs">francouzština</langstring>
+      <langstring language="da">Fransk</langstring>
+      <langstring language="nl">Frans</langstring>
+      <langstring language="en">French</langstring>
+      <langstring language="et">Prantsuse</langstring>
+      <langstring language="fi">ranska</langstring>
+      <langstring language="fr">Français</langstring>
+      <langstring language="de">Französisch</langstring>
+      <langstring language="el">Γαλλικά</langstring>
+      <langstring language="hu">Francia</langstring>
+      <langstring language="is">Franska</langstring>
+      <langstring language="ga">Fraincis</langstring>
+      <langstring language="it">Francese</langstring>
+      <langstring language="lv">franču</langstring>
+      <langstring language="lt">Prancūzų</langstring>
+      <langstring language="mt">Franċiż</langstring>
+      <langstring language="no">fransk</langstring>
+      <langstring language="pl">Francuski</langstring>
+      <langstring language="pt">Francês</langstring>
+      <langstring language="ro">Franceză</langstring>
+      <langstring language="sk">francúzština</langstring>
+      <langstring language="sl">Francosko</langstring>
+      <langstring language="es">Francés</langstring>
+      <langstring language="sv">Franska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">7</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fy</termIdentifier>
+    <caption>
+      <langstring language="da">Frisisk</langstring>
+      <langstring language="nl">Fries</langstring>
+      <langstring language="en">Frisian</langstring>
+      <langstring language="fr">Frison</langstring>
+      <langstring language="de">Friesisch</langstring>
+      <langstring language="it">Frisiano</langstring>
+      <langstring language="pl">Fryzyjski</langstring>
+      <langstring language="es">Frisio</langstring>
+      <langstring language="sv">Frisiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1060</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>gv</termIdentifier>
+    <caption>
+      <langstring language="da">Manx</langstring>
+      <langstring language="en">Gaelic (Manx)</langstring>
+      <langstring language="pl">Celtycki</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1062</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>gl</termIdentifier>
+    <caption>
+      <langstring language="da">Galicisk</langstring>
+      <langstring language="nl">Galicisch</langstring>
+      <langstring language="en">Galician</langstring>
+      <langstring language="fr">Galicien</langstring>
+      <langstring language="de">Galizisch</langstring>
+      <langstring language="it">Galiciano</langstring>
+      <langstring language="pl">Galicyjski</langstring>
+      <langstring language="es">Gallego</langstring>
+      <langstring language="sv">Galiciska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1064</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ka</termIdentifier>
+    <caption>
+      <langstring language="da">Georgisk</langstring>
+      <langstring language="nl">Georgisch</langstring>
+      <langstring language="en">Georgian</langstring>
+      <langstring language="fr">Géorgien</langstring>
+      <langstring language="de">Georgisch</langstring>
+      <langstring language="it">Georgiano</langstring>
+      <langstring language="pl">Gruziński</langstring>
+      <langstring language="es">Georgiano</langstring>
+      <langstring language="sv">Georgiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1065</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>de</termIdentifier>
+    <caption>
+      <langstring language="bg">немски</langstring>
+      <langstring language="hr">Njemački</langstring>
+      <langstring language="cs">němčina</langstring>
+      <langstring language="da">Tysk</langstring>
+      <langstring language="nl">Duits</langstring>
+      <langstring language="en">German</langstring>
+      <langstring language="et">Saksa</langstring>
+      <langstring language="fi">saksa</langstring>
+      <langstring language="fr">Allemand</langstring>
+      <langstring language="de">Deutsch</langstring>
+      <langstring language="el">Γερμανικά</langstring>
+      <langstring language="hu">Német</langstring>
+      <langstring language="is">Þýska</langstring>
+      <langstring language="ga">Gearmáinis</langstring>
+      <langstring language="it">Tedesco</langstring>
+      <langstring language="lv">vācu</langstring>
+      <langstring language="lt">Vokiečių</langstring>
+      <langstring language="mt">Ġermaniż</langstring>
+      <langstring language="no">tysk</langstring>
+      <langstring language="pl">Niemiecki</langstring>
+      <langstring language="pt">Alemão</langstring>
+      <langstring language="ro">Germană</langstring>
+      <langstring language="sk">nemčina</langstring>
+      <langstring language="sl">Nemško</langstring>
+      <langstring language="es">Alemán</langstring>
+      <langstring language="sv">Tyska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">9</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>el</termIdentifier>
+    <caption>
+      <langstring language="bg">гръцки</langstring>
+      <langstring language="hr">Grčki</langstring>
+      <langstring language="cs">řečtina</langstring>
+      <langstring language="da">Græsk</langstring>
+      <langstring language="nl">Grieks</langstring>
+      <langstring language="en">Greek</langstring>
+      <langstring language="et">Kreeka</langstring>
+      <langstring language="fi">kreikka</langstring>
+      <langstring language="fr">Grec</langstring>
+      <langstring language="de">Griechisch</langstring>
+      <langstring language="el">Ελληνικά</langstring>
+      <langstring language="hu">Görök</langstring>
+      <langstring language="is">Gríska</langstring>
+      <langstring language="ga">Gréigis</langstring>
+      <langstring language="it">Greco</langstring>
+      <langstring language="lv">grieķu</langstring>
+      <langstring language="lt">Graikų</langstring>
+      <langstring language="mt">Griek</langstring>
+      <langstring language="no">gresk</langstring>
+      <langstring language="pl">Grecki</langstring>
+      <langstring language="pt">Grego</langstring>
+      <langstring language="ro">Greacă</langstring>
+      <langstring language="sk">gréčtina</langstring>
+      <langstring language="sl">Grško</langstring>
+      <langstring language="es">Griego</langstring>
+      <langstring language="sv">Grekiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">11</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>kl</termIdentifier>
+    <caption>
+      <langstring language="da">Grønlandsk</langstring>
+      <langstring language="nl">Groenlands</langstring>
+      <langstring language="en">Greenlandic</langstring>
+      <langstring language="fr">Groenlandais</langstring>
+      <langstring language="de">Grönländisch</langstring>
+      <langstring language="it">Groenlandese</langstring>
+      <langstring language="pl">Grenlandzki</langstring>
+      <langstring language="es">Greenlandes</langstring>
+      <langstring language="sv">Grönländska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1066</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>gn</termIdentifier>
+    <caption>
+      <langstring language="da">Guarani</langstring>
+      <langstring language="nl">Guarani</langstring>
+      <langstring language="en">Guarani</langstring>
+      <langstring language="fr">Guarani</langstring>
+      <langstring language="de">Guarani</langstring>
+      <langstring language="it">Guarani</langstring>
+      <langstring language="pl">Guarani</langstring>
+      <langstring language="es">Guarani</langstring>
+      <langstring language="sv">Guarani</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1067</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>gu</termIdentifier>
+    <caption>
+      <langstring language="da">Gujarati</langstring>
+      <langstring language="nl">Gujarati</langstring>
+      <langstring language="en">Gujarati</langstring>
+      <langstring language="fr">Gujarati</langstring>
+      <langstring language="de">Gujarati</langstring>
+      <langstring language="it">Gujarati</langstring>
+      <langstring language="pl">Gujarati</langstring>
+      <langstring language="es">Gujarati</langstring>
+      <langstring language="sv">Gujarati</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1068</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ha</termIdentifier>
+    <caption>
+      <langstring language="da">Hausa</langstring>
+      <langstring language="nl">Hausa</langstring>
+      <langstring language="en">Hausa</langstring>
+      <langstring language="fr">Hausa</langstring>
+      <langstring language="de">Hausa</langstring>
+      <langstring language="it">Hausa</langstring>
+      <langstring language="pl">Hausa</langstring>
+      <langstring language="es">Hausa</langstring>
+      <langstring language="sv">Hausa</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1069</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>he</termIdentifier>
+    <caption>
+      <langstring language="bg">еврейски</langstring>
+      <langstring language="hr">Hebrejski</langstring>
+      <langstring language="cs">hebrejština</langstring>
+      <langstring language="da">Hebræisk</langstring>
+      <langstring language="nl">Hebreeuws</langstring>
+      <langstring language="en">Hebrew</langstring>
+      <langstring language="et">Heebrea</langstring>
+      <langstring language="fi">keprea</langstring>
+      <langstring language="fr">Hébreu</langstring>
+      <langstring language="de">Hebräisch</langstring>
+      <langstring language="el">Εβραϊκά</langstring>
+      <langstring language="hu">Izraeli</langstring>
+      <langstring language="is">Hebreska</langstring>
+      <langstring language="ga">Eabhrais</langstring>
+      <langstring language="it">Ebraico</langstring>
+      <langstring language="lv">ebreju</langstring>
+      <langstring language="lt">Hebrajų</langstring>
+      <langstring language="mt">Ebrajk</langstring>
+      <langstring language="no">hebraisk</langstring>
+      <langstring language="pl">Hebrajski</langstring>
+      <langstring language="pt">Hebreu</langstring>
+      <langstring language="ro">Ebraică</langstring>
+      <langstring language="sk">hebrejčina</langstring>
+      <langstring language="sl">Hebrejsko</langstring>
+      <langstring language="es">Hebreo</langstring>
+      <langstring language="sv">Hebreiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">24</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>hi</termIdentifier>
+    <caption>
+      <langstring language="da">Hindi</langstring>
+      <langstring language="nl">Hindi</langstring>
+      <langstring language="en">Hindi</langstring>
+      <langstring language="fr">Hindi</langstring>
+      <langstring language="de">Hindi</langstring>
+      <langstring language="el">Ινδικά</langstring>
+      <langstring language="it">Hindi</langstring>
+      <langstring language="pl">Hinduski</langstring>
+      <langstring language="es">Hindi</langstring>
+      <langstring language="sv">Hindi</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1071</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>hu</termIdentifier>
+    <caption>
+      <langstring language="bg">унгарски</langstring>
+      <langstring language="hr">Mađarski</langstring>
+      <langstring language="cs">maďarština</langstring>
+      <langstring language="da">Ungarsk</langstring>
+      <langstring language="nl">Hongaars</langstring>
+      <langstring language="en">Hungarian</langstring>
+      <langstring language="et">Ungari</langstring>
+      <langstring language="fi">unkari</langstring>
+      <langstring language="fr">Hongrois</langstring>
+      <langstring language="de">Ungarisch</langstring>
+      <langstring language="el">Ουγγρικά</langstring>
+      <langstring language="hu">Magyar</langstring>
+      <langstring language="is">Ungverska</langstring>
+      <langstring language="ga">Ungáiris</langstring>
+      <langstring language="it">Ungherese</langstring>
+      <langstring language="lv">ungāru</langstring>
+      <langstring language="lt">Vengrų</langstring>
+      <langstring language="mt">Ungeriż</langstring>
+      <langstring language="no">ungarsk</langstring>
+      <langstring language="pl">Węgierski</langstring>
+      <langstring language="pt">Húngaro</langstring>
+      <langstring language="ro">Maghiară</langstring>
+      <langstring language="sk">maďarčina</langstring>
+      <langstring language="sl">Madžarsko</langstring>
+      <langstring language="es">Húngaro</langstring>
+      <langstring language="sv">Ungerska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>is</termIdentifier>
+    <caption>
+      <langstring language="bg">исландски</langstring>
+      <langstring language="hr">Islandski</langstring>
+      <langstring language="cs">islandština</langstring>
+      <langstring language="da">Islandsk</langstring>
+      <langstring language="nl">Ijslands</langstring>
+      <langstring language="en">Icelandic</langstring>
+      <langstring language="et">Islandi</langstring>
+      <langstring language="fi">islanti</langstring>
+      <langstring language="fr">Islandais</langstring>
+      <langstring language="de">Isländisch</langstring>
+      <langstring language="el">Ισλανδικά</langstring>
+      <langstring language="hu">Izlandi</langstring>
+      <langstring language="is">Íslenska</langstring>
+      <langstring language="ga">Íoslainnis</langstring>
+      <langstring language="it">Islandese</langstring>
+      <langstring language="lv">islandiešu</langstring>
+      <langstring language="lt">Islandų</langstring>
+      <langstring language="mt">Iżlandiż</langstring>
+      <langstring language="no">islandsk</langstring>
+      <langstring language="pl">Islandzki</langstring>
+      <langstring language="pt">Islandês</langstring>
+      <langstring language="ro">Islandeză</langstring>
+      <langstring language="sk">islandština</langstring>
+      <langstring language="sl">Islandsko</langstring>
+      <langstring language="es">Islandés</langstring>
+      <langstring language="sv">Isländska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">23</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>id</termIdentifier>
+    <caption>
+      <langstring language="da">Indonesisk</langstring>
+      <langstring language="nl">Indonesisch</langstring>
+      <langstring language="en">Indonesian</langstring>
+      <langstring language="fr">Indonésien</langstring>
+      <langstring language="de">Indonesisch</langstring>
+      <langstring language="el">Ινδονησιακά</langstring>
+      <langstring language="it">Indonesiano</langstring>
+      <langstring language="pl">Indonezyjski</langstring>
+      <langstring language="es">Indonesio</langstring>
+      <langstring language="sv">Indonesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1075</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ia</termIdentifier>
+    <caption>
+      <langstring language="da">Interlingua</langstring>
+      <langstring language="nl">Interlingua</langstring>
+      <langstring language="en">Interlingua</langstring>
+      <langstring language="fr">Interlingua</langstring>
+      <langstring language="de">Interlingua</langstring>
+      <langstring language="it">Interlingua</langstring>
+      <langstring language="pl">interlingua</langstring>
+      <langstring language="es">Interlingua</langstring>
+      <langstring language="sv">Interlingua</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1076</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ie</termIdentifier>
+    <caption>
+      <langstring language="da">Interlingue</langstring>
+      <langstring language="nl">Interlingue</langstring>
+      <langstring language="en">Interlingue</langstring>
+      <langstring language="fr">Interlingue</langstring>
+      <langstring language="de">Interlingue</langstring>
+      <langstring language="it">Interlingue</langstring>
+      <langstring language="pl">Interlingue</langstring>
+      <langstring language="es">Interlingue</langstring>
+      <langstring language="sv">Interlingue</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1077</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>iu</termIdentifier>
+    <caption>
+      <langstring language="nl">Inuktitut</langstring>
+      <langstring language="en">Inuktitut</langstring>
+      <langstring language="fr">Inuktitut</langstring>
+      <langstring language="de">Inuktitut</langstring>
+      <langstring language="pl">Inuktitut</langstring>
+      <langstring language="es">Inuktitut</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1078</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ik</termIdentifier>
+    <caption>
+      <langstring language="da">Inupiak</langstring>
+      <langstring language="nl">Inupiak</langstring>
+      <langstring language="en">Inupiak</langstring>
+      <langstring language="fr">Inupiak</langstring>
+      <langstring language="de">Inupiak</langstring>
+      <langstring language="it">Inupiak</langstring>
+      <langstring language="pl">Inupiak</langstring>
+      <langstring language="es">Inupiak</langstring>
+      <langstring language="sv">Inupiak</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1079</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ga</termIdentifier>
+    <caption>
+      <langstring language="bg">ирландски</langstring>
+      <langstring language="hr">Irski</langstring>
+      <langstring language="cs">irština</langstring>
+      <langstring language="da">Irsk</langstring>
+      <langstring language="nl">Iers</langstring>
+      <langstring language="en">Irish</langstring>
+      <langstring language="et">Iiri</langstring>
+      <langstring language="fi">iiri</langstring>
+      <langstring language="fr">Irlandais</langstring>
+      <langstring language="de">Irisch</langstring>
+      <langstring language="el">Ιρλανδικά</langstring>
+      <langstring language="hu">Ír</langstring>
+      <langstring language="is">Írska</langstring>
+      <langstring language="ga">Na hÉireann</langstring>
+      <langstring language="it">Irlandese</langstring>
+      <langstring language="lv">īru</langstring>
+      <langstring language="lt">Airių</langstring>
+      <langstring language="mt">Irlaniż</langstring>
+      <langstring language="no">irsk</langstring>
+      <langstring language="pl">Irlandzki</langstring>
+      <langstring language="pt">Irlandês</langstring>
+      <langstring language="ro">Irlandeză</langstring>
+      <langstring language="sk">írština</langstring>
+      <langstring language="sl">Irsko</langstring>
+      <langstring language="es">Irlandés</langstring>
+      <langstring language="sv">Irländska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">31</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>it</termIdentifier>
+    <caption>
+      <langstring language="bg">италиански</langstring>
+      <langstring language="hr">Talijanski</langstring>
+      <langstring language="cs">italština</langstring>
+      <langstring language="da">Italiensk</langstring>
+      <langstring language="nl">Italiaans</langstring>
+      <langstring language="en">Italian</langstring>
+      <langstring language="et">Itaalia</langstring>
+      <langstring language="fi">italia</langstring>
+      <langstring language="fr">Italien</langstring>
+      <langstring language="de">Italienisch</langstring>
+      <langstring language="el">Ιταλικά</langstring>
+      <langstring language="hu">Olasz</langstring>
+      <langstring language="is">Ítalska</langstring>
+      <langstring language="ga">Iodáilis</langstring>
+      <langstring language="it">Italiano</langstring>
+      <langstring language="lv">itāļu</langstring>
+      <langstring language="lt">Italų</langstring>
+      <langstring language="mt">Taljan</langstring>
+      <langstring language="no">italiensk</langstring>
+      <langstring language="pl">Włoski</langstring>
+      <langstring language="pt">Italiano</langstring>
+      <langstring language="ro">Italiană</langstring>
+      <langstring language="sk">taliančina</langstring>
+      <langstring language="sl">Italijansko</langstring>
+      <langstring language="es">Italiano</langstring>
+      <langstring language="sv">Italienska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">10</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ja</termIdentifier>
+    <caption>
+      <langstring language="da">Japansk</langstring>
+      <langstring language="nl">Japans</langstring>
+      <langstring language="en">Japanese</langstring>
+      <langstring language="fr">Japonais</langstring>
+      <langstring language="de">Japanisch</langstring>
+      <langstring language="el">Ιαπωνικά</langstring>
+      <langstring language="it">Giapponese</langstring>
+      <langstring language="pl">Japoński</langstring>
+      <langstring language="es">Japones</langstring>
+      <langstring language="sv">Japanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1081</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>jw</termIdentifier>
+    <caption>
+      <langstring language="da">Javanesisk</langstring>
+      <langstring language="nl">Javaans</langstring>
+      <langstring language="en">Javanese</langstring>
+      <langstring language="fr">Javanais</langstring>
+      <langstring language="de">Javanesisch</langstring>
+      <langstring language="it">Giavanese</langstring>
+      <langstring language="pl">Jawajski</langstring>
+      <langstring language="es">Javanes</langstring>
+      <langstring language="sv">Javanesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1082</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>kn</termIdentifier>
+    <caption>
+      <langstring language="da">Kannada</langstring>
+      <langstring language="nl">Kannada</langstring>
+      <langstring language="en">Kannada</langstring>
+      <langstring language="fr">Kannada</langstring>
+      <langstring language="de">Kannada</langstring>
+      <langstring language="it">Kannada</langstring>
+      <langstring language="pl">Kannada</langstring>
+      <langstring language="es">Kannada</langstring>
+      <langstring language="sv">Kannada</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1083</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ks</termIdentifier>
+    <caption>
+      <langstring language="da">Kashmirisk</langstring>
+      <langstring language="nl">Kasjmiers</langstring>
+      <langstring language="en">Kashmiri</langstring>
+      <langstring language="fr">Kashmiri</langstring>
+      <langstring language="de">Kaschmiri</langstring>
+      <langstring language="it">Kashmiriano</langstring>
+      <langstring language="pl">Kaszmirski</langstring>
+      <langstring language="es">Kashmiri</langstring>
+      <langstring language="sv">Kashmiri</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1085</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>kk</termIdentifier>
+    <caption>
+      <langstring language="da">Kazakisk</langstring>
+      <langstring language="nl">Kazaks</langstring>
+      <langstring language="en">Kazakh</langstring>
+      <langstring language="fr">Kazakh</langstring>
+      <langstring language="de">Kasachisch</langstring>
+      <langstring language="it">Kazako</langstring>
+      <langstring language="pl">Kazachski</langstring>
+      <langstring language="es">Kazakh</langstring>
+      <langstring language="sv">Kazakiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1086</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
     <termIdentifier>rw</termIdentifier>
     <caption>
+      <langstring language="da">Kiyarwanda</langstring>
+      <langstring language="nl">Kinja-Roeanda</langstring>
       <langstring language="en">Kinyarwanda</langstring>
-      <langstring language="fr">rwanda</langstring>
+      <langstring language="fr">Kinyarwanda</langstring>
+      <langstring language="de">Kinyaruanda</langstring>
+      <langstring language="it">Kiyarwanda</langstring>
+      <langstring language="pl">Kiniaruanda</langstring>
+      <langstring language="es">Kinyarwanda</langstring>
+      <langstring language="sv">Kiyarwanda</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1087</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>ky</termIdentifier>
     <caption>
-      <langstring language="en">Kirghiz; Kyrgyz</langstring>
-      <langstring language="fr">kirghiz</langstring>
+      <langstring language="da">Kirgisisk</langstring>
+      <langstring language="nl">Kirgizisch</langstring>
+      <langstring language="en">Kirghiz</langstring>
+      <langstring language="fr">Kirghiz</langstring>
+      <langstring language="de">Kirgisisch</langstring>
+      <langstring language="it">Kirghizo</langstring>
+      <langstring language="pl">Kirgiski</langstring>
+      <langstring language="es">Kirghiz</langstring>
+      <langstring language="sv">Kirgisiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1088</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>kv</termIdentifier>
-    <caption>
-      <langstring language="en">Komi</langstring>
-      <langstring language="fr">kom</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kg</termIdentifier>
-    <caption>
-      <langstring language="en">Kongo</langstring>
-      <langstring language="fr">kongo</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ko</termIdentifier>
-    <caption>
-      <langstring language="en">Korean</langstring>
-      <langstring language="fr">coréen</langstring>
-      <langstring language="nl">Koreaans</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>kj</termIdentifier>
-    <caption>
-      <langstring language="en">Kuanyama; Kwanyama</langstring>
-      <langstring language="fr">kuanyama; kwanyama</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ku</termIdentifier>
-    <caption>
-      <langstring language="en">Kurdish</langstring>
-      <langstring language="fr">kurde</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lo</termIdentifier>
-    <caption>
-      <langstring language="en">Lao</langstring>
-      <langstring language="fr">lao</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>la</termIdentifier>
-    <caption>
-      <langstring language="en">Latin</langstring>
-      <langstring language="fr">latin</langstring>
-      <langstring language="nl">Latijn</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lv</termIdentifier>
-    <caption>
-      <langstring language="en">Latvian</langstring>
-      <langstring language="fr">letton</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>li</termIdentifier>
-    <caption>
-      <langstring language="en">Limburgan; Limburger; Limburgish</langstring>
-      <langstring language="fr">limbourgeois</langstring>
-      <langstring language="nl">Limburgs</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ln</termIdentifier>
-    <caption>
-      <langstring language="en">Lingala</langstring>
-      <langstring language="fr">lingala</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lt</termIdentifier>
-    <caption>
-      <langstring language="en">Lithuanian</langstring>
-      <langstring language="fr">lituanien</langstring>
-      <langstring language="nl">Litouws</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lb</termIdentifier>
-    <caption>
-      <langstring language="en">Luxembourgish; Letzeburgesch</langstring>
-      <langstring language="fr">luxembourgeois</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lu</termIdentifier>
-    <caption>
-      <langstring language="en">Luba-Katanga</langstring>
-      <langstring language="fr">luba-katanga</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>lg</termIdentifier>
-    <caption>
-      <langstring language="en">Ganda</langstring>
-      <langstring language="fr">ganda</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mk</termIdentifier>
-    <caption>
-      <langstring language="en">Macedonian</langstring>
-      <langstring language="fr">macédonien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mh</termIdentifier>
-    <caption>
-      <langstring language="en">Marshallese</langstring>
-      <langstring language="fr">marshall</langstring>
-      <langstring language="nl">Marshallees</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ml</termIdentifier>
-    <caption>
-      <langstring language="en">Malayalam</langstring>
-      <langstring language="fr">malayalam</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mi</termIdentifier>
-    <caption>
-      <langstring language="en">Maori</langstring>
-      <langstring language="fr">maori</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mr</termIdentifier>
-    <caption>
-      <langstring language="en">Marathi</langstring>
-      <langstring language="fr">marathe</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ms</termIdentifier>
-    <caption>
-      <langstring language="en">Malay</langstring>
-      <langstring language="fr">malais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mg</termIdentifier>
-    <caption>
-      <langstring language="en">Malagasy</langstring>
-      <langstring language="fr">malgache</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mt</termIdentifier>
-    <caption>
-      <langstring language="en">Maltese</langstring>
-      <langstring language="fr">maltais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>mn</termIdentifier>
-    <caption>
-      <langstring language="en">Mongolian</langstring>
-      <langstring language="fr">mongol</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>na</termIdentifier>
-    <caption>
-      <langstring language="en">Nauru</langstring>
-      <langstring language="fr">nauruan</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nv</termIdentifier>
-    <caption>
-      <langstring language="en">Navajo; Navaho</langstring>
-      <langstring language="fr">navaho</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nr</termIdentifier>
-    <caption>
-      <langstring language="en">Ndebele, South; South Ndebele</langstring>
-      <langstring language="fr">ndébélé du Sud</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nd</termIdentifier>
-    <caption>
-      <langstring language="en">Ndebele, North; North Ndebele</langstring>
-      <langstring language="fr">ndébélé du Nord</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ng</termIdentifier>
-    <caption>
-      <langstring language="en">Ndonga</langstring>
-      <langstring language="fr">ndonga</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ne</termIdentifier>
-    <caption>
-      <langstring language="en">Nepali</langstring>
-      <langstring language="fr">népalais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nn</termIdentifier>
-    <caption>
-      <langstring language="en">Norwegian Nynorsk; Nynorsk, Norwegian</langstring>
-      <langstring language="fr">norvégien nynorsk; nynorsk, norvégien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>nb</termIdentifier>
-    <caption>
-      <langstring language="en">Bokmål, Norwegian; Norwegian Bokmål</langstring>
-      <langstring language="fr">norvégien bokmål</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>no</termIdentifier>
-    <caption>
-      <langstring language="en">Norwegian</langstring>
-      <langstring language="fr">norvégien</langstring>
-      <langstring language="nl">Noors</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ny</termIdentifier>
-    <caption>
-      <langstring language="en">Chichewa; Chewa; Nyanja</langstring>
-      <langstring language="fr">chichewa; chewa; nyanja</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>oc</termIdentifier>
-    <caption>
-      <langstring language="en">Occitan (post 1500); Provençal</langstring>
-      <langstring language="fr">occitan (après 1500); provençal</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>oj</termIdentifier>
-    <caption>
-      <langstring language="en">Ojibwa</langstring>
-      <langstring language="fr">ojibwa</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>or</termIdentifier>
-    <caption>
-      <langstring language="en">Oriya</langstring>
-      <langstring language="fr">oriya</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>om</termIdentifier>
-    <caption>
-      <langstring language="en">Oromo</langstring>
-      <langstring language="fr">galla</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>os</termIdentifier>
-    <caption>
-      <langstring language="en">Ossetian; Ossetic</langstring>
-      <langstring language="fr">ossète</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>pa</termIdentifier>
-    <caption>
-      <langstring language="en">Panjabi; Punjabi</langstring>
-      <langstring language="fr">pendjabi</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>fa</termIdentifier>
-    <caption>
-      <langstring language="en">Persian</langstring>
-      <langstring language="fr">persan</langstring>
-      <langstring language="nl">Perzisch</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>pi</termIdentifier>
-    <caption>
-      <langstring language="en">Pali</langstring>
-      <langstring language="fr">pali</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>pl</termIdentifier>
-    <caption>
-      <langstring language="en">Polish</langstring>
-      <langstring language="fr">polonais</langstring>
-      <langstring language="nl">Pools</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>pt</termIdentifier>
-    <caption>
-      <langstring language="en">Portuguese</langstring>
-      <langstring language="fr">portugais</langstring>
-      <langstring language="nl">Portugees</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ps</termIdentifier>
-    <caption>
-      <langstring language="en">Pushto; Pashto</langstring>
-      <langstring language="fr">pachto</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>qu</termIdentifier>
-    <caption>
-      <langstring language="en">Quechua</langstring>
-      <langstring language="fr">quechua</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>rm</termIdentifier>
-    <caption>
-      <langstring language="en">Romansh</langstring>
-      <langstring language="fr">romanche</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ro</termIdentifier>
-    <caption>
-      <langstring language="en">Romanian; Moldavian; Moldovan</langstring>
-      <langstring language="fr">roumain; moldave</langstring>
-    </caption>
-  </term>
-  <term>
+  <term validIndex="true">
     <termIdentifier>rn</termIdentifier>
     <caption>
-      <langstring language="en">Rundi</langstring>
-      <langstring language="fr">rundi</langstring>
+      <langstring language="da">Kirundi</langstring>
+      <langstring language="nl">Kirundi</langstring>
+      <langstring language="en">Kirundi</langstring>
+      <langstring language="fr">Kirundi</langstring>
+      <langstring language="de">Kirundi</langstring>
+      <langstring language="it">Kirundi</langstring>
+      <langstring language="pl">Kirundzki</langstring>
+      <langstring language="es">Kirundi</langstring>
+      <langstring language="sv">Kirundi</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1089</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>ru</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>ko</termIdentifier>
     <caption>
-      <langstring language="en">Russian</langstring>
-      <langstring language="fr">russe</langstring>
-      <langstring language="nl">Russisch</langstring>
+      <langstring language="da">Koreansk</langstring>
+      <langstring language="nl">Koreaans</langstring>
+      <langstring language="en">Korean</langstring>
+      <langstring language="fr">Coréen</langstring>
+      <langstring language="de">Koreanisch</langstring>
+      <langstring language="el">Κορεάτικα</langstring>
+      <langstring language="it">Coreano</langstring>
+      <langstring language="pl">Koreański</langstring>
+      <langstring language="es">Coreano</langstring>
+      <langstring language="sv">Koreanska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1090</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>sg</termIdentifier>
+  <term validIndex="true">
+    <termIdentifier>ku</termIdentifier>
     <caption>
-      <langstring language="en">Sango</langstring>
-      <langstring language="fr">sango</langstring>
+      <langstring language="da">Kurdisk</langstring>
+      <langstring language="nl">Koerdisch</langstring>
+      <langstring language="en">Kurdish</langstring>
+      <langstring language="fr">Kurde</langstring>
+      <langstring language="de">Kurdisch</langstring>
+      <langstring language="it">Curdo</langstring>
+      <langstring language="pl">Kurdyjski</langstring>
+      <langstring language="es">Kurdo</langstring>
+      <langstring language="sv">Kurdiska</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1091</xthes:altIdentifier>
+    </metadata>
   </term>
-  <term>
-    <termIdentifier>sa</termIdentifier>
-    <caption>
-      <langstring language="en">Sanskrit</langstring>
-      <langstring language="fr">sanskrit</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>si</termIdentifier>
-    <caption>
-      <langstring language="en">Sinhala; Sinhalese</langstring>
-      <langstring language="fr">singhalais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sk</termIdentifier>
-    <caption>
-      <langstring language="en">Slovak</langstring>
-      <langstring language="fr">slovaque</langstring>
-      <langstring language="nl">Slowaaks</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sl</termIdentifier>
-    <caption>
-      <langstring language="en">Slovenian</langstring>
-      <langstring language="fr">slovène</langstring>
-      <langstring language="nl">Sloveens</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>se</termIdentifier>
-    <caption>
-      <langstring language="en">Northern Sami</langstring>
-      <langstring language="fr">sami du Nord</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sm</termIdentifier>
-    <caption>
-      <langstring language="en">Samoan</langstring>
-      <langstring language="fr">samoan</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sn</termIdentifier>
-    <caption>
-      <langstring language="en">Shona</langstring>
-      <langstring language="fr">shona</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sd</termIdentifier>
-    <caption>
-      <langstring language="en">Sindhi</langstring>
-      <langstring language="fr">sindhi</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>so</termIdentifier>
-    <caption>
-      <langstring language="en">Somali</langstring>
-      <langstring language="fr">somali</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>st</termIdentifier>
-    <caption>
-      <langstring language="en">Sotho, Southern</langstring>
-      <langstring language="fr">sotho du Sud</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>es</termIdentifier>
-    <caption>
-      <langstring language="en">Spanish; Castilian</langstring>
-      <langstring language="fr">espagnol; castillan</langstring>
-      <langstring language="nl">Spaans; Castiliaans</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sc</termIdentifier>
-    <caption>
-      <langstring language="en">Sardinian</langstring>
-      <langstring language="fr">sarde</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sr</termIdentifier>
-    <caption>
-      <langstring language="en">Serbian</langstring>
-      <langstring language="fr">serbe</langstring>
-      <langstring language="nl">Servisch</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ss</termIdentifier>
-    <caption>
-      <langstring language="en">Swati</langstring>
-      <langstring language="fr">swati</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>su</termIdentifier>
-    <caption>
-      <langstring language="en">Sundanese</langstring>
-      <langstring language="fr">soundanais</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sw</termIdentifier>
-    <caption>
-      <langstring language="en">Swahili</langstring>
-      <langstring language="fr">swahili</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>sv</termIdentifier>
-    <caption>
-      <langstring language="en">Swedish</langstring>
-      <langstring language="fr">suédois</langstring>
-      <langstring language="nl">Zweeds</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ty</termIdentifier>
-    <caption>
-      <langstring language="en">Tahitian</langstring>
-      <langstring language="fr">tahitien</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ta</termIdentifier>
-    <caption>
-      <langstring language="en">Tamil</langstring>
-      <langstring language="fr">tamoul</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tt</termIdentifier>
-    <caption>
-      <langstring language="en">Tatar</langstring>
-      <langstring language="fr">tatar</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>te</termIdentifier>
-    <caption>
-      <langstring language="en">Telugu</langstring>
-      <langstring language="fr">télougou</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tg</termIdentifier>
-    <caption>
-      <langstring language="en">Tajik</langstring>
-      <langstring language="fr">tadjik</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tl</termIdentifier>
-    <caption>
-      <langstring language="en">Tagalog</langstring>
-      <langstring language="fr">tagalog</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>th</termIdentifier>
-    <caption>
-      <langstring language="en">Thai</langstring>
-      <langstring language="fr">thaï</langstring>
-      <langstring language="nl">Thai</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>bo</termIdentifier>
-    <caption>
-      <langstring language="en">Tibetan</langstring>
-      <langstring language="fr">tibétain</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ti</termIdentifier>
-    <caption>
-      <langstring language="en">Tigrinya</langstring>
-      <langstring language="fr">tigrigna</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>to</termIdentifier>
-    <caption>
-      <langstring language="en">Tonga (Tonga Islands)</langstring>
-      <langstring language="fr">tongan (Îles Tonga)</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tn</termIdentifier>
-    <caption>
-      <langstring language="en">Tswana</langstring>
-      <langstring language="fr">tswana</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ts</termIdentifier>
-    <caption>
-      <langstring language="en">Tsonga</langstring>
-      <langstring language="fr">tsonga</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tk</termIdentifier>
-    <caption>
-      <langstring language="en">Turkmen</langstring>
-      <langstring language="fr">turkmène</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tr</termIdentifier>
-    <caption>
-      <langstring language="en">Turkish</langstring>
-      <langstring language="fr">turc</langstring>
-      <langstring language="nl">Turks</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>tw</termIdentifier>
-    <caption>
-      <langstring language="en">Twi</langstring>
-      <langstring language="fr">twi</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ug</termIdentifier>
-    <caption>
-      <langstring language="en">Uighur; Uyghur</langstring>
-      <langstring language="fr">ouïgour</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>uk</termIdentifier>
-    <caption>
-      <langstring language="en">Ukrainian</langstring>
-      <langstring language="fr">ukrainien</langstring>
-      <langstring language="nl">Oekraïens</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ur</termIdentifier>
-    <caption>
-      <langstring language="en">Urdu</langstring>
-      <langstring language="fr">ourdou</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>uz</termIdentifier>
-    <caption>
-      <langstring language="en">Uzbek</langstring>
-      <langstring language="fr">ouszbek</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>ve</termIdentifier>
-    <caption>
-      <langstring language="en">Venda</langstring>
-      <langstring language="fr">venda</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>vi</termIdentifier>
-    <caption>
-      <langstring language="en">Vietnamese</langstring>
-      <langstring language="fr">vietnamien</langstring>
-      <langstring language="nl">Vietnamees</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>vo</termIdentifier>
-    <caption>
-      <langstring language="en">Volapük</langstring>
-      <langstring language="fr">volapük</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>cy</termIdentifier>
-    <caption>
-      <langstring language="en">Welsh</langstring>
-      <langstring language="fr">gallois</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>wa</termIdentifier>
-    <caption>
-      <langstring language="en">Walloon</langstring>
-      <langstring language="fr">wallon</langstring>
-      <langstring language="nl">Waals</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>wo</termIdentifier>
-    <caption>
-      <langstring language="en">Wolof</langstring>
-      <langstring language="fr">wolof</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>xh</termIdentifier>
-    <caption>
-      <langstring language="en">Xhosa</langstring>
-      <langstring language="fr">xhosa</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>yi</termIdentifier>
-    <caption>
-      <langstring language="en">Yiddish</langstring>
-      <langstring language="fr">yiddish</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>yo</termIdentifier>
-    <caption>
-      <langstring language="en">Yoruba</langstring>
-      <langstring language="fr">yoruba</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>za</termIdentifier>
-    <caption>
-      <langstring language="en">Zhuang; Chuang</langstring>
-      <langstring language="fr">zhuang; chuang</langstring>
-    </caption>
-  </term>
-  <term>
-    <termIdentifier>zu</termIdentifier>
-    <caption>
-      <langstring language="en">Zulu</langstring>
-      <langstring language="fr">zoulou</langstring>
-    </caption>
-  </term>
-  <!--Although x-none is not part of the ISO 639-1, it is usefull.-->
-  <term>
+  <term validIndex="true">
     <termIdentifier>x-none</termIdentifier>
     <caption>
-      <langstring language="en">none</langstring>
-      <langstring language="fr">aucune</langstring>
-      <langstring language="nl">geen</langstring>
+      <langstring language="bg">без текст</langstring>
+      <langstring language="cs">libovolný jazyk</langstring>
+      <langstring language="da">Intet sprog</langstring>
+      <langstring language="nl">Taal-onafhankelijk</langstring>
+      <langstring language="en">Language-free</langstring>
+      <langstring language="et">Keelevaba</langstring>
+      <langstring language="fi">ei kieltä</langstring>
+      <langstring language="fr">Sans texte</langstring>
+      <langstring language="de">sprachunabhängig</langstring>
+      <langstring language="el">Οποιαδήποτε γλώσσα</langstring>
+      <langstring language="hu">Nyelvfüggetlen</langstring>
+      <langstring language="is">Óháð tungumáli</langstring>
+      <langstring language="it">Non testuale</langstring>
+      <langstring language="lv">brīva valodas izvēle</langstring>
+      <langstring language="lt">Be kalbos</langstring>
+      <langstring language="mt">Bla użu ta’ lingwa</langstring>
+      <langstring language="no">uten språk</langstring>
+      <langstring language="pl">Brak języka</langstring>
+      <langstring language="pt">Sem recurso a língua</langstring>
+      <langstring language="ro">Limba</langstring>
+      <langstring language="sk">ktorýkoľvek jazyk</langstring>
+      <langstring language="sl">Jezikovno neodvisno</langstring>
+      <langstring language="es">Sin idioma</langstring>
+      <langstring language="sv">Utan språk</langstring>
     </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">111111</xthes:altIdentifier>
+    </metadata>
   </term>
+  <term validIndex="true">
+    <termIdentifier>lo</termIdentifier>
+    <caption>
+      <langstring language="da">Laotisk</langstring>
+      <langstring language="nl">Laotiaans</langstring>
+      <langstring language="en">Laothian</langstring>
+      <langstring language="fr">Laotien</langstring>
+      <langstring language="de">Laotisch</langstring>
+      <langstring language="it">Laotiano</langstring>
+      <langstring language="pl">Laotyński</langstring>
+      <langstring language="es">Laosiano</langstring>
+      <langstring language="sv">Laotiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1092</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>la</termIdentifier>
+    <caption>
+      <langstring language="da">Latin</langstring>
+      <langstring language="nl">Latijn</langstring>
+      <langstring language="en">Latin</langstring>
+      <langstring language="fr">Latin</langstring>
+      <langstring language="de">Lateinisch</langstring>
+      <langstring language="it">Latino</langstring>
+      <langstring language="pl">Łaciński</langstring>
+      <langstring language="es">Latin</langstring>
+      <langstring language="sv">Latin</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1093</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>lv</termIdentifier>
+    <caption>
+      <langstring language="bg">латвийски</langstring>
+      <langstring language="hr">Letonski</langstring>
+      <langstring language="cs">lotyština</langstring>
+      <langstring language="da">Lettisk</langstring>
+      <langstring language="nl">Lets</langstring>
+      <langstring language="en">Latvian</langstring>
+      <langstring language="et">Läti</langstring>
+      <langstring language="fi">latvia</langstring>
+      <langstring language="fr">Letton</langstring>
+      <langstring language="de">Lettisch</langstring>
+      <langstring language="el">Λετονικά</langstring>
+      <langstring language="hu">Lett</langstring>
+      <langstring language="is">Lettneska</langstring>
+      <langstring language="ga">Laitvis</langstring>
+      <langstring language="it">Lettone</langstring>
+      <langstring language="lv">latviešu</langstring>
+      <langstring language="lt">Latvių</langstring>
+      <langstring language="mt">Latvjan</langstring>
+      <langstring language="no">latvisk</langstring>
+      <langstring language="pl">Łotewski</langstring>
+      <langstring language="pt">Letão</langstring>
+      <langstring language="ro">Letonă</langstring>
+      <langstring language="sk">lotyština</langstring>
+      <langstring language="sl">Latvijsko</langstring>
+      <langstring language="es">Letón</langstring>
+      <langstring language="sv">Lettiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">2</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ln</termIdentifier>
+    <caption>
+      <langstring language="da">Lingala</langstring>
+      <langstring language="nl">Lingala</langstring>
+      <langstring language="en">Lingala</langstring>
+      <langstring language="fr">Lingala</langstring>
+      <langstring language="de">Lingala</langstring>
+      <langstring language="it">Lingala</langstring>
+      <langstring language="pl">Lingala</langstring>
+      <langstring language="es">Lingala</langstring>
+      <langstring language="sv">Lingala</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1095</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>lt</termIdentifier>
+    <caption>
+      <langstring language="bg">литовски</langstring>
+      <langstring language="hr">Litvanski</langstring>
+      <langstring language="cs">litevština</langstring>
+      <langstring language="da">Litauisk</langstring>
+      <langstring language="nl">Litouws</langstring>
+      <langstring language="en">Lithuanian</langstring>
+      <langstring language="et">Leedu</langstring>
+      <langstring language="fi">liettua</langstring>
+      <langstring language="fr">Lituanien</langstring>
+      <langstring language="de">Litauisch</langstring>
+      <langstring language="el">Λιθουανικά</langstring>
+      <langstring language="hu">Litván</langstring>
+      <langstring language="is">Litháíska</langstring>
+      <langstring language="ga">Liotuáinis</langstring>
+      <langstring language="it">Lituano</langstring>
+      <langstring language="lv">lietuviešu</langstring>
+      <langstring language="lt">Lietuvių</langstring>
+      <langstring language="mt">Litwan</langstring>
+      <langstring language="no">litauisk</langstring>
+      <langstring language="pl">Litewski</langstring>
+      <langstring language="pt">Lituano</langstring>
+      <langstring language="ro">Lituaniană</langstring>
+      <langstring language="sk">litovčina</langstring>
+      <langstring language="sl">Litovsko</langstring>
+      <langstring language="es">Lituano</langstring>
+      <langstring language="sv">Litauiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">19</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>lb</termIdentifier>
+    <caption>
+      <langstring language="da">Luxembourgsk</langstring>
+      <langstring language="nl">Luxemburgs</langstring>
+      <langstring language="en">Luxembourgish</langstring>
+      <langstring language="fr">luxembourgeois</langstring>
+      <langstring language="pl">Luxembourgish</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1164</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mk</termIdentifier>
+    <caption>
+      <langstring language="da">Makedonisk</langstring>
+      <langstring language="nl">Macedonisch</langstring>
+      <langstring language="en">Macedonian</langstring>
+      <langstring language="fr">Macédonien</langstring>
+      <langstring language="de">Makedonisch</langstring>
+      <langstring language="it">Macedone</langstring>
+      <langstring language="pl">Macedoński</langstring>
+      <langstring language="es">Macedonio</langstring>
+      <langstring language="sv">Makedonska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1097</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mg</termIdentifier>
+    <caption>
+      <langstring language="da">Madegassisk</langstring>
+      <langstring language="nl">Malagasisch</langstring>
+      <langstring language="en">Malagasy</langstring>
+      <langstring language="fr">Malgache</langstring>
+      <langstring language="de">Malagassisch</langstring>
+      <langstring language="it">Malgascio</langstring>
+      <langstring language="pl">Malgaski</langstring>
+      <langstring language="es">Malagasy</langstring>
+      <langstring language="sv">Malagassiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1098</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ms</termIdentifier>
+    <caption>
+      <langstring language="da">Malajisk</langstring>
+      <langstring language="nl">Maleis</langstring>
+      <langstring language="en">Malay</langstring>
+      <langstring language="fr">Malais</langstring>
+      <langstring language="de">Malayisch</langstring>
+      <langstring language="it">Malese</langstring>
+      <langstring language="pl">Malajski</langstring>
+      <langstring language="es">Malay</langstring>
+      <langstring language="sv">Malajiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1099</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ml</termIdentifier>
+    <caption>
+      <langstring language="da">Malayalam</langstring>
+      <langstring language="nl">Malayalam</langstring>
+      <langstring language="en">Malayalam</langstring>
+      <langstring language="fr">Malayalam</langstring>
+      <langstring language="de">Malayalam</langstring>
+      <langstring language="it">Malayalam</langstring>
+      <langstring language="pl">Malajalam</langstring>
+      <langstring language="es">Malayo</langstring>
+      <langstring language="sv">Malayalam</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1100</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mt</termIdentifier>
+    <caption>
+      <langstring language="bg">малтийски</langstring>
+      <langstring language="hr">Malteški</langstring>
+      <langstring language="cs">maltština</langstring>
+      <langstring language="da">Maltesisk</langstring>
+      <langstring language="nl">Maltezisch</langstring>
+      <langstring language="en">Maltese</langstring>
+      <langstring language="et">Malta</langstring>
+      <langstring language="fi">malta</langstring>
+      <langstring language="fr">Maltais</langstring>
+      <langstring language="de">Maltesisch</langstring>
+      <langstring language="el">Μαλτέζικα</langstring>
+      <langstring language="hu">Máltai</langstring>
+      <langstring language="is">Maltneska</langstring>
+      <langstring language="ga">Mháltais</langstring>
+      <langstring language="it">Maltese</langstring>
+      <langstring language="lv">maltiešu</langstring>
+      <langstring language="lt">Maltiečių</langstring>
+      <langstring language="mt">Malti</langstring>
+      <langstring language="no">maltesisk</langstring>
+      <langstring language="pl">Maltański</langstring>
+      <langstring language="pt">Maltês</langstring>
+      <langstring language="ro">Malteză</langstring>
+      <langstring language="sk">maltština</langstring>
+      <langstring language="sl">Malteško</langstring>
+      <langstring language="es">Maltés</langstring>
+      <langstring language="sv">Maltesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">101</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mi</termIdentifier>
+    <caption>
+      <langstring language="da">Maorisk</langstring>
+      <langstring language="nl">Maori</langstring>
+      <langstring language="en">Maori</langstring>
+      <langstring language="fr">Maori</langstring>
+      <langstring language="de">Maori</langstring>
+      <langstring language="it">Maori</langstring>
+      <langstring language="pl">Maori</langstring>
+      <langstring language="es">Maori</langstring>
+      <langstring language="sv">Maori</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1102</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mr</termIdentifier>
+    <caption>
+      <langstring language="da">Marathi</langstring>
+      <langstring language="nl">Marathi</langstring>
+      <langstring language="en">Marathi</langstring>
+      <langstring language="fr">Marathe</langstring>
+      <langstring language="de">Marathi</langstring>
+      <langstring language="it">Marathi</langstring>
+      <langstring language="pl">Marathi</langstring>
+      <langstring language="es">Marathi</langstring>
+      <langstring language="sv">Marathi</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1103</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mo</termIdentifier>
+    <caption>
+      <langstring language="da">Moldavisk</langstring>
+      <langstring language="nl">Moldavisch</langstring>
+      <langstring language="en">Moldavian</langstring>
+      <langstring language="fr">Moldavien</langstring>
+      <langstring language="de">Moldawisch</langstring>
+      <langstring language="it">Moldaviano</langstring>
+      <langstring language="pl">Mołdawski</langstring>
+      <langstring language="es">Moldavo</langstring>
+      <langstring language="sv">Moldaviska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1104</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>mn</termIdentifier>
+    <caption>
+      <langstring language="da">Mongolsk</langstring>
+      <langstring language="nl">Mongools</langstring>
+      <langstring language="en">Mongolian</langstring>
+      <langstring language="fr">Mongol</langstring>
+      <langstring language="de">Mongolisch</langstring>
+      <langstring language="it">Mongolo</langstring>
+      <langstring language="pl">Mongolski</langstring>
+      <langstring language="es">Mongol</langstring>
+      <langstring language="sv">Mongoliska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1105</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>na</termIdentifier>
+    <caption>
+      <langstring language="da">Nauru</langstring>
+      <langstring language="nl">Nauru</langstring>
+      <langstring language="en">Nauru</langstring>
+      <langstring language="fr">Nauru</langstring>
+      <langstring language="de">Nauru</langstring>
+      <langstring language="it">Nauru</langstring>
+      <langstring language="pl">Nauru</langstring>
+      <langstring language="es">Nauru</langstring>
+      <langstring language="sv">Nauriska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1106</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ne</termIdentifier>
+    <caption>
+      <langstring language="da">Nepalesisk</langstring>
+      <langstring language="nl">Nepalees</langstring>
+      <langstring language="en">Nepali</langstring>
+      <langstring language="fr">Népalais</langstring>
+      <langstring language="de">Nepalesisch</langstring>
+      <langstring language="it">Nepalese</langstring>
+      <langstring language="pl">Nepalski</langstring>
+      <langstring language="es">Nepali</langstring>
+      <langstring language="sv">Nepalesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1107</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>no</termIdentifier>
+    <caption>
+      <langstring language="bg">норвежки</langstring>
+      <langstring language="hr">Norveški</langstring>
+      <langstring language="cs">norština</langstring>
+      <langstring language="da">Norsk</langstring>
+      <langstring language="nl">Noors</langstring>
+      <langstring language="en">Norwegian</langstring>
+      <langstring language="et">Norra</langstring>
+      <langstring language="fi">norja</langstring>
+      <langstring language="fr">Norvégien</langstring>
+      <langstring language="de">Norwegisch</langstring>
+      <langstring language="el">Νορβηγικά</langstring>
+      <langstring language="hu">Norvég</langstring>
+      <langstring language="is">Norska</langstring>
+      <langstring language="ga">Ioruais</langstring>
+      <langstring language="it">Norvegese</langstring>
+      <langstring language="lv">norvēģu</langstring>
+      <langstring language="lt">Norvegų</langstring>
+      <langstring language="mt">Norveġiż</langstring>
+      <langstring language="no">norsk</langstring>
+      <langstring language="pl">Norweski</langstring>
+      <langstring language="pt">Norueguês</langstring>
+      <langstring language="ro">Norvegiană</langstring>
+      <langstring language="sk">nórčina</langstring>
+      <langstring language="sl">Norveško</langstring>
+      <langstring language="es">Noruego</langstring>
+      <langstring language="sv">Norska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">12</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>oc</termIdentifier>
+    <caption>
+      <langstring language="da">Occitansk</langstring>
+      <langstring language="nl">Occitaans</langstring>
+      <langstring language="en">Occitan</langstring>
+      <langstring language="fr">Occitan</langstring>
+      <langstring language="de">Okzitanisch</langstring>
+      <langstring language="it">Occitano</langstring>
+      <langstring language="pl">Prowansalski</langstring>
+      <langstring language="es">Occitano</langstring>
+      <langstring language="sv">Occitanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1108</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>or</termIdentifier>
+    <caption>
+      <langstring language="da">Oriya</langstring>
+      <langstring language="nl">Oriya</langstring>
+      <langstring language="en">Oriya</langstring>
+      <langstring language="fr">Oriya</langstring>
+      <langstring language="de">Oriya</langstring>
+      <langstring language="it">Oriya</langstring>
+      <langstring language="pl">Oriya</langstring>
+      <langstring language="es">Oriya</langstring>
+      <langstring language="sv">Oriya</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1109</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>om</termIdentifier>
+    <caption>
+      <langstring language="da">Oromo</langstring>
+      <langstring language="nl">Oromo</langstring>
+      <langstring language="en">Oromo</langstring>
+      <langstring language="fr">Oromo</langstring>
+      <langstring language="de">Oromo</langstring>
+      <langstring language="it">Oromo</langstring>
+      <langstring language="pl">Oromo</langstring>
+      <langstring language="es">Oromo</langstring>
+      <langstring language="sv">Oromo</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1110</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ps</termIdentifier>
+    <caption>
+      <langstring language="da">Pashto</langstring>
+      <langstring language="nl">Pashto</langstring>
+      <langstring language="en">Pashto</langstring>
+      <langstring language="fr">Pashto</langstring>
+      <langstring language="de">Paschto</langstring>
+      <langstring language="it">Pashto</langstring>
+      <langstring language="pl">Paszto</langstring>
+      <langstring language="es">Pashto</langstring>
+      <langstring language="sv">Pashto</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1112</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>fa</termIdentifier>
+    <caption>
+      <langstring language="da">Persisk</langstring>
+      <langstring language="nl">Perzisch</langstring>
+      <langstring language="en">Persian</langstring>
+      <langstring language="fr">Persan</langstring>
+      <langstring language="de">Persisch</langstring>
+      <langstring language="el">Περσικά</langstring>
+      <langstring language="it">Persiano</langstring>
+      <langstring language="pl">Perski</langstring>
+      <langstring language="es">Persa</langstring>
+      <langstring language="sv">Persiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1057</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>pl</termIdentifier>
+    <caption>
+      <langstring language="bg">полски</langstring>
+      <langstring language="hr">Poljski</langstring>
+      <langstring language="cs">polština</langstring>
+      <langstring language="da">Polsk</langstring>
+      <langstring language="nl">Pools</langstring>
+      <langstring language="en">Polish</langstring>
+      <langstring language="et">Poola</langstring>
+      <langstring language="fi">puola</langstring>
+      <langstring language="fr">Polonais</langstring>
+      <langstring language="de">Polnisch</langstring>
+      <langstring language="el">Πολωνικά</langstring>
+      <langstring language="hu">Lengyel</langstring>
+      <langstring language="is">Pólska</langstring>
+      <langstring language="ga">Polainnis</langstring>
+      <langstring language="it">Polacco</langstring>
+      <langstring language="lv">poļu</langstring>
+      <langstring language="lt">Lenkų</langstring>
+      <langstring language="mt">Pollakk</langstring>
+      <langstring language="no">polsk</langstring>
+      <langstring language="pl">Polski</langstring>
+      <langstring language="pt">Polaco</langstring>
+      <langstring language="ro">Poloneză</langstring>
+      <langstring language="sk">poľština</langstring>
+      <langstring language="sl">Poljsko</langstring>
+      <langstring language="es">Polaco</langstring>
+      <langstring language="sv">Polska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">13</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>pt</termIdentifier>
+    <caption>
+      <langstring language="bg">португалски</langstring>
+      <langstring language="hr">Portugalski</langstring>
+      <langstring language="cs">portugalština</langstring>
+      <langstring language="da">Portugisisk</langstring>
+      <langstring language="nl">Portugees</langstring>
+      <langstring language="en">Portuguese</langstring>
+      <langstring language="et">Portugali</langstring>
+      <langstring language="fi">portugali</langstring>
+      <langstring language="fr">Portugais</langstring>
+      <langstring language="de">Portugiesisch</langstring>
+      <langstring language="el">Πορτογαλικά</langstring>
+      <langstring language="hu">Portugál</langstring>
+      <langstring language="is">Portúgalska</langstring>
+      <langstring language="ga">Portaingéilis</langstring>
+      <langstring language="it">Portoghese</langstring>
+      <langstring language="lv">portugāļu</langstring>
+      <langstring language="lt">Portugalų</langstring>
+      <langstring language="mt">Portugiż</langstring>
+      <langstring language="no">portugisisk</langstring>
+      <langstring language="pl">Portugalski</langstring>
+      <langstring language="pt">Português</langstring>
+      <langstring language="ro">Portugheză</langstring>
+      <langstring language="sk">portugalčina</langstring>
+      <langstring language="sl">Portugalsko</langstring>
+      <langstring language="es">Portugués</langstring>
+      <langstring language="sv">Portugisiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">14</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>pa</termIdentifier>
+    <caption>
+      <langstring language="da">Punjabi</langstring>
+      <langstring language="nl">Punjabi</langstring>
+      <langstring language="en">Punjabi</langstring>
+      <langstring language="fr">Pendjabi</langstring>
+      <langstring language="de">Pundschabi</langstring>
+      <langstring language="it">Punjabi</langstring>
+      <langstring language="pl">Punjabi</langstring>
+      <langstring language="es">Punjabi</langstring>
+      <langstring language="sv">Punjabi</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1113</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>qu</termIdentifier>
+    <caption>
+      <langstring language="da">Quechua</langstring>
+      <langstring language="nl">Quechua</langstring>
+      <langstring language="en">Quechua</langstring>
+      <langstring language="fr">Quechua</langstring>
+      <langstring language="de">Quechua</langstring>
+      <langstring language="it">Quechua</langstring>
+      <langstring language="pl">Keczua</langstring>
+      <langstring language="es">Quechua</langstring>
+      <langstring language="sv">Quechua</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1114</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>rm</termIdentifier>
+    <caption>
+      <langstring language="da">Rhæto-romansk</langstring>
+      <langstring language="nl">Rhaeto-Romaans</langstring>
+      <langstring language="en">Rhaeto-Romance</langstring>
+      <langstring language="fr">Rheto-Roman</langstring>
+      <langstring language="de">Rätoromanisch</langstring>
+      <langstring language="it">Reto-Romancio</langstring>
+      <langstring language="pl">Romansz</langstring>
+      <langstring language="es">Reto-Romano</langstring>
+      <langstring language="sv">Rätoromanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1115</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ro</termIdentifier>
+    <caption>
+      <langstring language="bg">румънски</langstring>
+      <langstring language="hr">Rumunski</langstring>
+      <langstring language="cs">rumunština</langstring>
+      <langstring language="da">Rumænsk</langstring>
+      <langstring language="nl">Roemeens</langstring>
+      <langstring language="en">Romanian</langstring>
+      <langstring language="et">Rumeenia</langstring>
+      <langstring language="fi">romania</langstring>
+      <langstring language="fr">Roumain</langstring>
+      <langstring language="de">Rumänisch</langstring>
+      <langstring language="el">Ρουμανικά</langstring>
+      <langstring language="hu">Román</langstring>
+      <langstring language="is">Rúmenska</langstring>
+      <langstring language="ga">Rómáinis</langstring>
+      <langstring language="it">Rumeno</langstring>
+      <langstring language="lv">rumāņu</langstring>
+      <langstring language="lt">Rumunų</langstring>
+      <langstring language="mt">Rumen</langstring>
+      <langstring language="no">rumensk</langstring>
+      <langstring language="pl">Rumuński</langstring>
+      <langstring language="pt">Romeno</langstring>
+      <langstring language="ro">Română</langstring>
+      <langstring language="sk">rumunčina</langstring>
+      <langstring language="sl">Romunsko</langstring>
+      <langstring language="es">Rumano</langstring>
+      <langstring language="sv">Rumänska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">20</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ru</termIdentifier>
+    <caption>
+      <langstring language="bg">руски</langstring>
+      <langstring language="hr">Ruski</langstring>
+      <langstring language="cs">ruština</langstring>
+      <langstring language="da">Russisk</langstring>
+      <langstring language="nl">Russisch</langstring>
+      <langstring language="en">Russian</langstring>
+      <langstring language="et">Vene</langstring>
+      <langstring language="fi">venäjä</langstring>
+      <langstring language="fr">Russe</langstring>
+      <langstring language="de">Russisch</langstring>
+      <langstring language="el">Ρωσικά</langstring>
+      <langstring language="hu">Orosz</langstring>
+      <langstring language="is">Rússneska</langstring>
+      <langstring language="ga">Rúisis</langstring>
+      <langstring language="it">Russo</langstring>
+      <langstring language="lv">krievu</langstring>
+      <langstring language="lt">Rusų</langstring>
+      <langstring language="mt">Russu</langstring>
+      <langstring language="no">russisk</langstring>
+      <langstring language="pl">Rosyjski</langstring>
+      <langstring language="pt">Russo</langstring>
+      <langstring language="ro">Rusă</langstring>
+      <langstring language="sk">ruština</langstring>
+      <langstring language="sl">Rusko</langstring>
+      <langstring language="es">Ruso</langstring>
+      <langstring language="sv">Ryska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">28</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sm</termIdentifier>
+    <caption>
+      <langstring language="da">Samoansk</langstring>
+      <langstring language="nl">Samoaans</langstring>
+      <langstring language="en">Samoan</langstring>
+      <langstring language="fr">Samoan</langstring>
+      <langstring language="de">Samoisch</langstring>
+      <langstring language="it">Samoano</langstring>
+      <langstring language="pl">Samoański</langstring>
+      <langstring language="es">Samoan</langstring>
+      <langstring language="sv">Samoanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1119</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sg</termIdentifier>
+    <caption>
+      <langstring language="da">Sangho</langstring>
+      <langstring language="nl">Sangho</langstring>
+      <langstring language="en">Sangho</langstring>
+      <langstring language="fr">Sangho</langstring>
+      <langstring language="de">Sangho</langstring>
+      <langstring language="it">Sangho</langstring>
+      <langstring language="pl">Sango</langstring>
+      <langstring language="es">Sangho</langstring>
+      <langstring language="sv">Sangho</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1120</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sa</termIdentifier>
+    <caption>
+      <langstring language="da">Sanskrit</langstring>
+      <langstring language="nl">Sanskriet</langstring>
+      <langstring language="en">Sanskrit</langstring>
+      <langstring language="fr">Sanscrit</langstring>
+      <langstring language="de">Sanskrit</langstring>
+      <langstring language="it">Sanscrito</langstring>
+      <langstring language="pl">Sanskryt</langstring>
+      <langstring language="es">Sanscrito</langstring>
+      <langstring language="sv">Sanskrit</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1121</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>gd</termIdentifier>
+    <caption>
+      <langstring language="da">Skotsk gælisk</langstring>
+      <langstring language="nl">Schots Gaelic</langstring>
+      <langstring language="en">Scots</langstring>
+      <langstring language="fr">Gaelic</langstring>
+      <langstring language="de">Ecossais</langstring>
+      <langstring language="it">Gaelico Scozzese</langstring>
+      <langstring language="pl">Szkocki</langstring>
+      <langstring language="es">Gälisch</langstring>
+      <langstring language="sv">Skotsk gaeliska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1063</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sr</termIdentifier>
+    <caption>
+      <langstring language="da">Serbisk</langstring>
+      <langstring language="nl">Servisch</langstring>
+      <langstring language="en">Serbian</langstring>
+      <langstring language="fr">Serbe</langstring>
+      <langstring language="de">Serbisch</langstring>
+      <langstring language="el">Σερβικά</langstring>
+      <langstring language="it">Serbo</langstring>
+      <langstring language="pl">Serbski</langstring>
+      <langstring language="es">Serbio</langstring>
+      <langstring language="sv">Serbiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1122</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sh</termIdentifier>
+    <caption>
+      <langstring language="da">Serbo-kroatisk</langstring>
+      <langstring language="nl">Servo-Kroatisch</langstring>
+      <langstring language="en">Serbo-Croatian</langstring>
+      <langstring language="fr">Serbo-Croate</langstring>
+      <langstring language="de">Serbo-Kroatisch</langstring>
+      <langstring language="el">Σερβοκροάτικα</langstring>
+      <langstring language="it">Serbo-Croato</langstring>
+      <langstring language="pl">Serbsko-chorwacji</langstring>
+      <langstring language="es">Serbo-Croata</langstring>
+      <langstring language="sv">Serbokroatiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1123</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>st</termIdentifier>
+    <caption>
+      <langstring language="da">Sesotho</langstring>
+      <langstring language="nl">Sesotho</langstring>
+      <langstring language="en">Sesotho</langstring>
+      <langstring language="fr">Sesotho</langstring>
+      <langstring language="de">Sesotho</langstring>
+      <langstring language="it">Sesotho</langstring>
+      <langstring language="pl">Sesoto</langstring>
+      <langstring language="es">Sesotho</langstring>
+      <langstring language="sv">Sesotho</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1124</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tn</termIdentifier>
+    <caption>
+      <langstring language="da">Setswana</langstring>
+      <langstring language="nl">Setswana</langstring>
+      <langstring language="en">Setswana</langstring>
+      <langstring language="fr">Setswana</langstring>
+      <langstring language="de">Setswana</langstring>
+      <langstring language="it">Setswana</langstring>
+      <langstring language="pl">Tswana</langstring>
+      <langstring language="es">Setswana</langstring>
+      <langstring language="sv">Setswana</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1125</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sn</termIdentifier>
+    <caption>
+      <langstring language="da">Shona</langstring>
+      <langstring language="nl">Shona</langstring>
+      <langstring language="en">Shona</langstring>
+      <langstring language="fr">Shona</langstring>
+      <langstring language="de">Schona</langstring>
+      <langstring language="it">Shona</langstring>
+      <langstring language="pl">Shona</langstring>
+      <langstring language="es">Shona</langstring>
+      <langstring language="sv">Shona</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1126</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sd</termIdentifier>
+    <caption>
+      <langstring language="da">Sindhi</langstring>
+      <langstring language="nl">Sindhi</langstring>
+      <langstring language="en">Sindhi</langstring>
+      <langstring language="fr">Sindhi</langstring>
+      <langstring language="de">Sindhi</langstring>
+      <langstring language="it">Sindhi</langstring>
+      <langstring language="pl">Sindhi</langstring>
+      <langstring language="es">Sindhi</langstring>
+      <langstring language="sv">Sindhi</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1127</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>si</termIdentifier>
+    <caption>
+      <langstring language="da">Singalesisk</langstring>
+      <langstring language="nl">Singalees</langstring>
+      <langstring language="en">Singhalese</langstring>
+      <langstring language="fr">Cingalais</langstring>
+      <langstring language="de">Singhalesisch</langstring>
+      <langstring language="it">Singalese</langstring>
+      <langstring language="pl">Syngaleski</langstring>
+      <langstring language="es">Singhalese</langstring>
+      <langstring language="sv">Singalesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1128</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ss</termIdentifier>
+    <caption>
+      <langstring language="da">Siswati</langstring>
+      <langstring language="nl">Siswati</langstring>
+      <langstring language="en">Siswati</langstring>
+      <langstring language="fr">Siswati</langstring>
+      <langstring language="de">Siswati</langstring>
+      <langstring language="it">Siswati</langstring>
+      <langstring language="pl">Suazi</langstring>
+      <langstring language="es">Siswati</langstring>
+      <langstring language="sv">Siswati</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1129</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sk</termIdentifier>
+    <caption>
+      <langstring language="bg">словашки</langstring>
+      <langstring language="hr">Slovački</langstring>
+      <langstring language="cs">slovenština</langstring>
+      <langstring language="da">Slovakisk</langstring>
+      <langstring language="nl">Slowaaks</langstring>
+      <langstring language="en">Slovak</langstring>
+      <langstring language="et">Slovaki</langstring>
+      <langstring language="fi">slovakia</langstring>
+      <langstring language="fr">Slovaque</langstring>
+      <langstring language="de">Slowakisch</langstring>
+      <langstring language="el">Σλοβάκικα</langstring>
+      <langstring language="hu">Szlovák</langstring>
+      <langstring language="is">Slóvakíska</langstring>
+      <langstring language="ga">Slóvaicis</langstring>
+      <langstring language="it">Slovacco</langstring>
+      <langstring language="lv">slovāku</langstring>
+      <langstring language="lt">Slovakų</langstring>
+      <langstring language="mt">Slovakk</langstring>
+      <langstring language="no">slovakisk</langstring>
+      <langstring language="pl">Słowacki</langstring>
+      <langstring language="pt">Eslovaco</langstring>
+      <langstring language="ro">Slovacă</langstring>
+      <langstring language="sk">slovenčina</langstring>
+      <langstring language="sl">Slovaško</langstring>
+      <langstring language="es">Eslovaco</langstring>
+      <langstring language="sv">Slovakiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">21</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sl</termIdentifier>
+    <caption>
+      <langstring language="bg">словенски</langstring>
+      <langstring language="hr">Slovenski</langstring>
+      <langstring language="cs">slovinština</langstring>
+      <langstring language="da">Slovensk</langstring>
+      <langstring language="nl">Sloveens</langstring>
+      <langstring language="en">Slovenian</langstring>
+      <langstring language="et">Sloveenia</langstring>
+      <langstring language="fi">slovenia</langstring>
+      <langstring language="fr">Slovène</langstring>
+      <langstring language="de">Slowenisch</langstring>
+      <langstring language="el">Σλοβένικα</langstring>
+      <langstring language="hu">Szlovén</langstring>
+      <langstring language="is">Slóvenska</langstring>
+      <langstring language="ga">Slóivéinis</langstring>
+      <langstring language="it">Sloveno</langstring>
+      <langstring language="lv">slovēņu</langstring>
+      <langstring language="lt">Slovėnų</langstring>
+      <langstring language="mt">Sloven</langstring>
+      <langstring language="no">slovensk</langstring>
+      <langstring language="pl">Słoweński</langstring>
+      <langstring language="pt">Esloveno</langstring>
+      <langstring language="ro">Slovenă</langstring>
+      <langstring language="sk">slovinčina</langstring>
+      <langstring language="sl">Slovensko</langstring>
+      <langstring language="es">Esloveno</langstring>
+      <langstring language="sv">Slovenska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">22</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>so</termIdentifier>
+    <caption>
+      <langstring language="da">Somalisk</langstring>
+      <langstring language="nl">Somalisch</langstring>
+      <langstring language="en">Somali</langstring>
+      <langstring language="fr">Somali</langstring>
+      <langstring language="de">Somali</langstring>
+      <langstring language="it">Somalo</langstring>
+      <langstring language="pl">Somali</langstring>
+      <langstring language="es">Somali</langstring>
+      <langstring language="sv">Somaliska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1131</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>es</termIdentifier>
+    <caption>
+      <langstring language="bg">испански</langstring>
+      <langstring language="hr">Španski</langstring>
+      <langstring language="cs">španělština</langstring>
+      <langstring language="da">Spansk</langstring>
+      <langstring language="nl">Spaans</langstring>
+      <langstring language="en">Spanish</langstring>
+      <langstring language="et">Hispaania</langstring>
+      <langstring language="fi">espanja</langstring>
+      <langstring language="fr">Espagnol</langstring>
+      <langstring language="de">Spanisch</langstring>
+      <langstring language="el">Ισπανικά</langstring>
+      <langstring language="hu">Spanyol</langstring>
+      <langstring language="is">Spænska</langstring>
+      <langstring language="ga">Spáinnis</langstring>
+      <langstring language="it">Spagnolo</langstring>
+      <langstring language="lv">spāņu</langstring>
+      <langstring language="lt">Ispanų</langstring>
+      <langstring language="mt">Spanjol</langstring>
+      <langstring language="no">spansk</langstring>
+      <langstring language="pl">Hiszpański</langstring>
+      <langstring language="pt">Espanhol</langstring>
+      <langstring language="ro">Spaniolă</langstring>
+      <langstring language="sk">španielčina</langstring>
+      <langstring language="sl">Špansko</langstring>
+      <langstring language="es">Español</langstring>
+      <langstring language="sv">Spanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">16</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>su</termIdentifier>
+    <caption>
+      <langstring language="da">Sudansk</langstring>
+      <langstring language="nl">Soedanees</langstring>
+      <langstring language="en">Sudanese</langstring>
+      <langstring language="fr">Soudanais</langstring>
+      <langstring language="de">Sudanesisch</langstring>
+      <langstring language="it">Sudanese</langstring>
+      <langstring language="pl">Sudański</langstring>
+      <langstring language="es">Sudanes</langstring>
+      <langstring language="sv">Sudanesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1132</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sw</termIdentifier>
+    <caption>
+      <langstring language="da">Swahili</langstring>
+      <langstring language="nl">Swahili</langstring>
+      <langstring language="en">Swahili</langstring>
+      <langstring language="fr">Swahili</langstring>
+      <langstring language="de">Suaheli</langstring>
+      <langstring language="it">Swahili</langstring>
+      <langstring language="pl">Suahili</langstring>
+      <langstring language="es">Swahili</langstring>
+      <langstring language="sv">Swahili</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1133</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>sv</termIdentifier>
+    <caption>
+      <langstring language="bg">шведски</langstring>
+      <langstring language="hr">Švedski</langstring>
+      <langstring language="cs">švédština</langstring>
+      <langstring language="da">Svensk</langstring>
+      <langstring language="nl">Zweeds</langstring>
+      <langstring language="en">Swedish</langstring>
+      <langstring language="et">Rootsi</langstring>
+      <langstring language="fi">ruotsi</langstring>
+      <langstring language="fr">Suédois</langstring>
+      <langstring language="de">Schwedisch</langstring>
+      <langstring language="el">Σουηδικά</langstring>
+      <langstring language="hu">Svéd</langstring>
+      <langstring language="is">Sænska</langstring>
+      <langstring language="ga">Sualainnis</langstring>
+      <langstring language="it">Svedese</langstring>
+      <langstring language="lv">zviedru</langstring>
+      <langstring language="lt">Švedų</langstring>
+      <langstring language="mt">Żvediż</langstring>
+      <langstring language="no">svensk</langstring>
+      <langstring language="pl">Szwedzki</langstring>
+      <langstring language="pt">Sueco</langstring>
+      <langstring language="ro">Suedeză</langstring>
+      <langstring language="sk">švédština</langstring>
+      <langstring language="sl">Švedsko</langstring>
+      <langstring language="es">Sueco</langstring>
+      <langstring language="sv">Svenska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">18</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tl</termIdentifier>
+    <caption>
+      <langstring language="da">Tagalog</langstring>
+      <langstring language="nl">Tagalog</langstring>
+      <langstring language="en">Tagalog</langstring>
+      <langstring language="fr">Tagal</langstring>
+      <langstring language="de">Tagalog</langstring>
+      <langstring language="it">Tagalog</langstring>
+      <langstring language="pl">Tagalski</langstring>
+      <langstring language="es">Tagalo</langstring>
+      <langstring language="sv">Tagalog</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1135</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tg</termIdentifier>
+    <caption>
+      <langstring language="da">Tadjikisk</langstring>
+      <langstring language="nl">Tadzjieks</langstring>
+      <langstring language="en">Tajik</langstring>
+      <langstring language="fr">Tadjik</langstring>
+      <langstring language="de">Tadschikisch</langstring>
+      <langstring language="it">Tajik</langstring>
+      <langstring language="pl">Tadżycki</langstring>
+      <langstring language="es">Tajik</langstring>
+      <langstring language="sv">Tajikiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1136</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ta</termIdentifier>
+    <caption>
+      <langstring language="da">Tamilsk</langstring>
+      <langstring language="nl">Tamil</langstring>
+      <langstring language="en">Tamil</langstring>
+      <langstring language="fr">Tamoul</langstring>
+      <langstring language="de">Tamilisch</langstring>
+      <langstring language="el">Ταμιλικά</langstring>
+      <langstring language="it">Tamil</langstring>
+      <langstring language="pl">Tamilski</langstring>
+      <langstring language="es">Tamil</langstring>
+      <langstring language="sv">Tamil</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1138</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tt</termIdentifier>
+    <caption>
+      <langstring language="da">Tatarisk</langstring>
+      <langstring language="nl">Tartaars</langstring>
+      <langstring language="en">Tatar</langstring>
+      <langstring language="fr">Tatar</langstring>
+      <langstring language="de">Tatarisch</langstring>
+      <langstring language="it">Tataro</langstring>
+      <langstring language="pl">Tatarski</langstring>
+      <langstring language="es">Tatar</langstring>
+      <langstring language="sv">Tatariska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1139</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>te</termIdentifier>
+    <caption>
+      <langstring language="da">Telugu</langstring>
+      <langstring language="nl">Telugu</langstring>
+      <langstring language="en">Telugu</langstring>
+      <langstring language="fr">Telugu</langstring>
+      <langstring language="de">Telugu</langstring>
+      <langstring language="it">Telugu</langstring>
+      <langstring language="pl">Telugu</langstring>
+      <langstring language="es">Telugu</langstring>
+      <langstring language="sv">Telugu</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1140</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>th</termIdentifier>
+    <caption>
+      <langstring language="da">Thailandsk</langstring>
+      <langstring language="nl">Thais</langstring>
+      <langstring language="en">Thai</langstring>
+      <langstring language="fr">Thai</langstring>
+      <langstring language="de">Thai</langstring>
+      <langstring language="el">Ταϋλανδικά</langstring>
+      <langstring language="it">Tailandese</langstring>
+      <langstring language="pl">Tajski</langstring>
+      <langstring language="es">Thai</langstring>
+      <langstring language="sv">Thailändska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1141</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>bo</termIdentifier>
+    <caption>
+      <langstring language="da">Tibetansk</langstring>
+      <langstring language="nl">Tibetaans</langstring>
+      <langstring language="en">Tibetan</langstring>
+      <langstring language="fr">Tibétain</langstring>
+      <langstring language="de">Tibetisch</langstring>
+      <langstring language="it">Tibetano</langstring>
+      <langstring language="pl">Tybetański</langstring>
+      <langstring language="es">Tibetano</langstring>
+      <langstring language="sv">Tibetanska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1142</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ti</termIdentifier>
+    <caption>
+      <langstring language="da">Tigrinya</langstring>
+      <langstring language="nl">Tigriniaans</langstring>
+      <langstring language="en">Tigrinya</langstring>
+      <langstring language="fr">Tigrinya</langstring>
+      <langstring language="de">Tigrinya</langstring>
+      <langstring language="it">Tigrinya</langstring>
+      <langstring language="pl">Tigrina</langstring>
+      <langstring language="es">Tigrinya</langstring>
+      <langstring language="sv">Tigrinya</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1143</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>to</termIdentifier>
+    <caption>
+      <langstring language="da">Tongansk</langstring>
+      <langstring language="nl">Tonga</langstring>
+      <langstring language="en">Tonga</langstring>
+      <langstring language="fr">Tonga</langstring>
+      <langstring language="de">Tonga</langstring>
+      <langstring language="it">Tonga</langstring>
+      <langstring language="pl">Tonga</langstring>
+      <langstring language="es">Tonga</langstring>
+      <langstring language="sv">Tonga</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1144</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ts</termIdentifier>
+    <caption>
+      <langstring language="da">Tsonga</langstring>
+      <langstring language="nl">Tsonga</langstring>
+      <langstring language="en">Tsonga</langstring>
+      <langstring language="fr">Tsonga</langstring>
+      <langstring language="de">Tsonga</langstring>
+      <langstring language="it">Tsonga</langstring>
+      <langstring language="pl">Tsonga</langstring>
+      <langstring language="es">Tsonga</langstring>
+      <langstring language="sv">Tsonga</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1145</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tr</termIdentifier>
+    <caption>
+      <langstring language="bg">турски</langstring>
+      <langstring language="hr">Turski</langstring>
+      <langstring language="cs">turečtina</langstring>
+      <langstring language="da">Tyrkisk</langstring>
+      <langstring language="nl">Turks</langstring>
+      <langstring language="en">Turkish</langstring>
+      <langstring language="et">Türgi</langstring>
+      <langstring language="fi">turkki</langstring>
+      <langstring language="fr">Turque</langstring>
+      <langstring language="de">Türkisch</langstring>
+      <langstring language="el">Τουρκικά</langstring>
+      <langstring language="hu">Török</langstring>
+      <langstring language="is">Tyrkneska</langstring>
+      <langstring language="ga">Tuircis</langstring>
+      <langstring language="it">Turco</langstring>
+      <langstring language="lv">turku</langstring>
+      <langstring language="lt">Turkų</langstring>
+      <langstring language="mt">Tork</langstring>
+      <langstring language="no">tyrkisk</langstring>
+      <langstring language="pl">Turecki</langstring>
+      <langstring language="pt">Turco</langstring>
+      <langstring language="ro">Turc</langstring>
+      <langstring language="sk">turečtina</langstring>
+      <langstring language="sl">Turško</langstring>
+      <langstring language="es">Turco</langstring>
+      <langstring language="sv">Turkiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">146</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tk</termIdentifier>
+    <caption>
+      <langstring language="da">Turkmensk</langstring>
+      <langstring language="nl">Turkmeens</langstring>
+      <langstring language="en">Turkmen</langstring>
+      <langstring language="fr">Turkmène</langstring>
+      <langstring language="de">Turkmenisch</langstring>
+      <langstring language="it">Turkmeno</langstring>
+      <langstring language="pl">Turkmeński</langstring>
+      <langstring language="es">Turkmen</langstring>
+      <langstring language="sv">Turkmeniska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1147</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>tw</termIdentifier>
+    <caption>
+      <langstring language="da">Twi</langstring>
+      <langstring language="nl">Twi</langstring>
+      <langstring language="en">Twi</langstring>
+      <langstring language="fr">Twi</langstring>
+      <langstring language="de">Twi</langstring>
+      <langstring language="it">Twi</langstring>
+      <langstring language="pl">Ewe</langstring>
+      <langstring language="es">Twi</langstring>
+      <langstring language="sv">Twi</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1148</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ug</termIdentifier>
+    <caption>
+      <langstring language="da">Uyghur</langstring>
+      <langstring language="nl">Uighur</langstring>
+      <langstring language="en">Uighur</langstring>
+      <langstring language="fr">Uighur</langstring>
+      <langstring language="de">Uighur</langstring>
+      <langstring language="pl">Ujgurski</langstring>
+      <langstring language="es">Uighur</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1149</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>uk</termIdentifier>
+    <caption>
+      <langstring language="bg">украински</langstring>
+      <langstring language="hr">Ukrajinski</langstring>
+      <langstring language="cs">ukrajinština</langstring>
+      <langstring language="da">Ukrainsk</langstring>
+      <langstring language="nl">Oekraïens</langstring>
+      <langstring language="en">Ukrainian</langstring>
+      <langstring language="et">Ukraina</langstring>
+      <langstring language="fi">ukraina</langstring>
+      <langstring language="fr">Ukrainien</langstring>
+      <langstring language="de">Ukrainisch</langstring>
+      <langstring language="el">Ουκρανικά</langstring>
+      <langstring language="hu">Ukrán</langstring>
+      <langstring language="is">Úkraínska</langstring>
+      <langstring language="ga">Úcráinis</langstring>
+      <langstring language="it">Ucraino</langstring>
+      <langstring language="lv">ukraiņu</langstring>
+      <langstring language="lt">Ukrainiečių</langstring>
+      <langstring language="mt">Ukrain</langstring>
+      <langstring language="no">ukrainsk</langstring>
+      <langstring language="pl">Ukraiński</langstring>
+      <langstring language="pt">Ucraniano</langstring>
+      <langstring language="ro">Uraineană</langstring>
+      <langstring language="sk">ukrajinčina</langstring>
+      <langstring language="sl">Ukrajinsko</langstring>
+      <langstring language="es">Ucraniano</langstring>
+      <langstring language="sv">Ukrainska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">26</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>ur</termIdentifier>
+    <caption>
+      <langstring language="da">Urdu</langstring>
+      <langstring language="nl">Urdu</langstring>
+      <langstring language="en">Urdu</langstring>
+      <langstring language="fr">Ourdou</langstring>
+      <langstring language="de">Urdu</langstring>
+      <langstring language="it">Urdu</langstring>
+      <langstring language="pl">Urdu</langstring>
+      <langstring language="es">Urdu</langstring>
+      <langstring language="sv">Urdu</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1151</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>uz</termIdentifier>
+    <caption>
+      <langstring language="da">Uzbekisk</langstring>
+      <langstring language="nl">Oezbeeks</langstring>
+      <langstring language="en">Uzbek</langstring>
+      <langstring language="fr">Ouzbek</langstring>
+      <langstring language="de">Usbekisch</langstring>
+      <langstring language="it">Uzbeco</langstring>
+      <langstring language="pl">Uzbecki</langstring>
+      <langstring language="es">Uzbeko</langstring>
+      <langstring language="sv">Uzbekiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1152</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>vi</termIdentifier>
+    <caption>
+      <langstring language="da">Vietnamesisk</langstring>
+      <langstring language="nl">Vietnamees</langstring>
+      <langstring language="en">Vietnamese</langstring>
+      <langstring language="fr">Vietnamien</langstring>
+      <langstring language="de">Vietnamesisch</langstring>
+      <langstring language="it">Vietnamese</langstring>
+      <langstring language="pl">Wietnamski</langstring>
+      <langstring language="es">Vietnamita</langstring>
+      <langstring language="sv">Vietnamesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1154</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>vo</termIdentifier>
+    <caption>
+      <langstring language="da">Volapük</langstring>
+      <langstring language="nl">Volapuk</langstring>
+      <langstring language="en">Volapuk</langstring>
+      <langstring language="fr">Volapuk</langstring>
+      <langstring language="de">Volapuk</langstring>
+      <langstring language="it">Volapük</langstring>
+      <langstring language="pl">Volapuk</langstring>
+      <langstring language="es">Volapuk</langstring>
+      <langstring language="sv">Volapük</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1155</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>cy</termIdentifier>
+    <caption>
+      <langstring language="da">Wallisisk</langstring>
+      <langstring language="nl">Welsh</langstring>
+      <langstring language="en">Welsh</langstring>
+      <langstring language="fr">Gallois</langstring>
+      <langstring language="de">Walisisch</langstring>
+      <langstring language="it">Gallese</langstring>
+      <langstring language="pl">Walijski</langstring>
+      <langstring language="es">Gales</langstring>
+      <langstring language="sv">Walesiska</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1156</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>wo</termIdentifier>
+    <caption>
+      <langstring language="da">Wolof</langstring>
+      <langstring language="nl">Wolof</langstring>
+      <langstring language="en">Wolof</langstring>
+      <langstring language="fr">Wolof</langstring>
+      <langstring language="de">Wolof</langstring>
+      <langstring language="it">Wolof</langstring>
+      <langstring language="pl">Wolof</langstring>
+      <langstring language="es">Wolof</langstring>
+      <langstring language="sv">Wolof</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1157</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>xh</termIdentifier>
+    <caption>
+      <langstring language="da">Xhosa</langstring>
+      <langstring language="nl">Xhosa</langstring>
+      <langstring language="en">Xhosa</langstring>
+      <langstring language="fr">Xhosa</langstring>
+      <langstring language="de">Xhosa</langstring>
+      <langstring language="it">Xhosa</langstring>
+      <langstring language="pl">Xhosa</langstring>
+      <langstring language="es">Xhosa</langstring>
+      <langstring language="sv">Xhosa</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1158</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>yi</termIdentifier>
+    <caption>
+      <langstring language="da">Jiddisch</langstring>
+      <langstring language="nl">Jiddisch</langstring>
+      <langstring language="en">Yiddish</langstring>
+      <langstring language="fr">Yiddish</langstring>
+      <langstring language="de">Jiddisch</langstring>
+      <langstring language="it">Yiddish</langstring>
+      <langstring language="pl">Jidysz</langstring>
+      <langstring language="es">Yidish</langstring>
+      <langstring language="sv">Jiddisch</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1160</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>yo</termIdentifier>
+    <caption>
+      <langstring language="da">Yorouba</langstring>
+      <langstring language="nl">Joruba</langstring>
+      <langstring language="en">Yoruba</langstring>
+      <langstring language="fr">Yoruba</langstring>
+      <langstring language="de">Yoruba</langstring>
+      <langstring language="it">Yorouba</langstring>
+      <langstring language="pl">Joruba</langstring>
+      <langstring language="es">Yoruba</langstring>
+      <langstring language="sv">Yoruba</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1161</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>za</termIdentifier>
+    <caption>
+      <langstring language="nl">Zhuang</langstring>
+      <langstring language="en">Zhuang</langstring>
+      <langstring language="fr">Zhuang</langstring>
+      <langstring language="de">Zhuang</langstring>
+      <langstring language="pl">Zhuang</langstring>
+      <langstring language="es">Zhuang</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1163</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <term validIndex="true">
+    <termIdentifier>zu</termIdentifier>
+    <caption>
+      <langstring language="da">Zulu</langstring>
+      <langstring language="nl">Zoeloe</langstring>
+      <langstring language="en">Zulu</langstring>
+      <langstring language="fr">Zoulou</langstring>
+      <langstring language="de">Zulu</langstring>
+      <langstring language="el">Ζουλού</langstring>
+      <langstring language="it">Zulu</langstring>
+      <langstring language="pl">Zulu</langstring>
+      <langstring language="es">Zulu</langstring>
+      <langstring language="sv">Zulu</langstring>
+    </caption>
+    <metadata>
+      <xthes:altIdentifier scheme="EUN">1162</xthes:altIdentifier>
+    </metadata>
+  </term>
+  <metadata>
+    <dc:description xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xml:lang="en">Codes
+    for the representation of names of languages. Source: ISO 639-1:2002. Most of the translations come from a merge with LRE's languageListValues
+    vocabulary downloaded from http://aspect.vocman.com/vbe on 2013-01-28.</dc:description>
+    <dc:source/>
+  </metadata>
 </vdex>
