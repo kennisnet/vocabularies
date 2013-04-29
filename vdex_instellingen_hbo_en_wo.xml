@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vdex profileType="flatTokenTerms"
+      xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd http://zthes.z3950.org/ http://www.xthes.org/schemas/zthes/zthes-1.2.xsd"
+      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0"
+      xmlns:zthes="http://zthes.z3950.org/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <vocabName>
+        <langstring language="en">Institutions Highher Education</langstring>
+        <langstring language="nl">Instellingen Hoger Onderwijs</langstring>
+    </vocabName>
+    <vocabIdentifier>instellingen_hbo_en_wo_20130402</vocabIdentifier>
+    <term validIndex="true">
+        <termIdentifier>21WN</termIdentifier>
+        <caption>
+            <langstring language="nl">NHL Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>22EX</termIdentifier>
+        <caption>
+            <langstring language="nl">Stenden Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>25BA</termIdentifier>
+        <caption>
+            <langstring language="nl">Christelijke Hogeschool Ede</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>27NF</termIdentifier>
+        <caption>
+            <langstring language="nl">ArtEZ</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>30HD</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Van Hall Larenstein</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>09OT</termIdentifier>
+        <caption>
+            <langstring language="nl">Iselinge Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>25KB</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool van Arnhem en Nijmegen</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>25BE</termIdentifier>
+        <caption>
+            <langstring language="nl">Hanzehogeschool Groningen</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>25JX</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Zuyd</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>07GR</termIdentifier>
+        <caption>
+            <langstring language="nl">Avans Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21UI</termIdentifier>
+        <caption>
+            <langstring language="nl">NHTV internationale hogeschool Breda</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21CW</termIdentifier>
+        <caption>
+            <langstring language="nl">HAS Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>30GB</termIdentifier>
+        <caption>
+            <langstring language="nl">Fontys Hogescholen</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>08OK</termIdentifier>
+        <caption>
+            <langstring language="nl">De Kempel</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>02NT</termIdentifier>
+        <caption>
+            <langstring language="nl">Design Academy Eindhoven</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>02BY</termIdentifier>
+        <caption>
+            <langstring language="nl">Gerrit Rietveld Academie</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21QA</termIdentifier>
+        <caption>
+            <langstring language="nl">Amsterdamse Hogeschool voor de Kunsten</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21UG</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool IPabo Amsterdam Alkmaar</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>28DN</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool van Amsterdam</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>00IC</termIdentifier>
+        <caption>
+            <langstring language="nl">Katholieke PABO Zwolle</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>22HH</termIdentifier>
+        <caption>
+            <langstring language="nl">Gereformeerde Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>08YJ</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Edith Stein</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>23AH</termIdentifier>
+        <caption>
+            <langstring language="nl">Saxion Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>01VU</termIdentifier>
+        <caption>
+            <langstring language="nl">Christelijke Hogeschool Windesheim</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>00MF</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool voor de Kunsten Utrecht</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>25DW</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Utrecht</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>10IZ</termIdentifier>
+        <caption>
+            <langstring language="nl">Marnix Academie</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21MI</termIdentifier>
+        <caption>
+            <langstring language="nl">HZ University of Applied Sciences</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>14NI</termIdentifier>
+        <caption>
+            <langstring language="nl">Codarts, Hogeschool voor de Kunsten</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21RI</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Leiden</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>22OJ</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool Rotterdam</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>23KJ</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool der Kunsten Den Haag</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>15BK</termIdentifier>
+        <caption>
+            <langstring language="nl">Driestar educatief</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>27PZ</termIdentifier>
+        <caption>
+            <langstring language="nl">Hogeschool INHOLLAND</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>27UM</termIdentifier>
+        <caption>
+            <langstring language="nl">De Haagse Hogeschool</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>02NR</termIdentifier>
+        <caption>
+            <langstring language="nl">Hotelschool Den Haag</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PI</termIdentifier>
+        <caption>
+            <langstring language="nl">Wageningen University</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PM</termIdentifier>
+        <caption>
+            <langstring language="nl">Radboud Universiteit Nijmegen</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PC</termIdentifier>
+        <caption>
+            <langstring language="nl">Rijksuniversiteit Groningen</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PJ</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit Maastricht</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PG</termIdentifier>
+        <caption>
+            <langstring language="nl">Technische Universiteit Eindhoven</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21UI</termIdentifier>
+        <caption>
+            <langstring language="nl">NHTV internationale hogeschool Breda</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PN</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit van Tilburg</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PK</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit van Amsterdam</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PL</termIdentifier>
+        <caption>
+            <langstring language="nl">Vrije Universiteit Amsterdam</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PH</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit Twente</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PD</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit Utrecht</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PE</termIdentifier>
+        <caption>
+            <langstring language="nl">Erasmus Universiteit Rotterdam</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PF</termIdentifier>
+        <caption>
+            <langstring language="nl">Technische Universiteit Delft</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>21PB</termIdentifier>
+        <caption>
+            <langstring language="nl">Universiteit Leiden</langstring>
+        </caption>
+    </term>
+    <metadata>
+        <zthes:thesNote label="authority">DUO</zthes:thesNote>
+    </metadata>
+</vdex>
