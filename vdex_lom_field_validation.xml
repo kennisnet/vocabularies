@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vdex profileType="flatTokenTerms"
+      xsi:schemaLocation="http://www.imsglobal.org/xsd/imsvdex_v1p0 http://www.imsglobal.org/xsd/imsvdex_v1p0.xsd http://zthes.z3950.org/ http://www.xthes.org/schemas/zthes/zthes-1.2.xsd"
+      xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0"
+      xmlns:zthes="http://zthes.z3950.org/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <vocabName>
+        <langstring language="en">LOM Field Validation</langstring>
+        <langstring language="nl">LOM Veld Validatie</langstring>
+    </vocabName>
+    <vocabIdentifier>lom_field_validation_20130821</vocabIdentifier>
+    <term validIndex="true">
+        <termIdentifier>format_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">technical format wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>format_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">technical format verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>learningresourcetype_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">educational learningresourcetype wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>learningresourcetype_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">educational learningresourcetype verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>intendedenduserrole_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">educational intendedenduserrole wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>intendedenduserrole_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">educational intendedenduserrole verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>context_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">educational context wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>context_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">educational context verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>cost_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">rights cost wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>cost_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">rights cost verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>copyrightandotherrestrictions_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">rights copyrightandotherrestrictions wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>copyrightandotherrestrictions_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">rights copyrightandotherrestrictions verwijdering</langstring>
+        </caption>
+    </term>
+    <metadata>
+        <zthes:thesNote label="authority">Edurep</zthes:thesNote>
+    </metadata>
+</vdex>
