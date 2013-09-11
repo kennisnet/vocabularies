@@ -8,7 +8,7 @@
         <langstring language="en">LOM Field Validation</langstring>
         <langstring language="nl">LOM Veld Validatie</langstring>
     </vocabName>
-    <vocabIdentifier>lom_field_validation_20130821</vocabIdentifier>
+    <vocabIdentifier>lom_field_validation_20130911</vocabIdentifier>
     <term validIndex="true">
         <termIdentifier>format_edit</termIdentifier>
         <caption>
@@ -34,6 +34,12 @@
         </caption>
     </term>
     <term validIndex="true">
+        <termIdentifier>learningresourcetype_ignore</termIdentifier>
+        <caption>
+            <langstring language="nl">educational learningresourcetype negeer vanwege custom vocabulaire</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
         <termIdentifier>intendedenduserrole_edit</termIdentifier>
         <caption>
             <langstring language="nl">educational intendedenduserrole wijziging</langstring>
@@ -55,6 +61,24 @@
         <termIdentifier>context_delete</termIdentifier>
         <caption>
             <langstring language="nl">educational context verwijdering</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>context_ignore</termIdentifier>
+        <caption>
+            <langstring language="nl">educational context negeer vanwege custom vocabulaire</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>typicalagerange_edit</termIdentifier>
+        <caption>
+            <langstring language="nl">educational typicalagerange wijziging</langstring>
+        </caption>
+    </term>
+    <term validIndex="true">
+        <termIdentifier>typicalagerange_delete</termIdentifier>
+        <caption>
+            <langstring language="nl">educational typicalagerange verwijdering</langstring>
         </caption>
     </term>
     <term validIndex="true">
